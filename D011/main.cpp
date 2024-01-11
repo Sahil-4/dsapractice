@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <cmath>
 
 using namespace std;
 
@@ -80,7 +81,35 @@ void p6() {
     }
 }
 
+void p7() {
+    // Problem 7 : Leetcode 442 : Find All Duplicates in an Array - https://leetcode.com/problems/find-all-duplicates-in-an-array/description/ 
 
+    // ways to solve this 
+    // 1. brute force by traversing the whole array and checking for same elements in nested loops 
+    // 2. taking an array having elements of range and marking them visited after encountering them 
+    // 3. hashing : going to each element, thinking it as a index and updating element at this index by *-1 now next time if we encounter any such value then we can declare it as a duplicate 
+
+    // vector<int> arr = {4,3,2,7,8,2,3,1};
+    // vector<int> arr = {4,3,2,7,8,2,3,1};
+    vector<int> arr = {1,1,2};
+    // vector<int> arr = {10,2,5,10,9,1,1,4,3,7};
+    vector<int> ans;
+
+    for (int i = 0; i < arr.size(); i++) {
+        int index = abs(arr[i])-1;
+
+        if (arr[index] < 0) {
+            // duplicate 
+            ans.push_back(index + 1);
+        }
+
+        arr[index] *= -1;
+    }
+
+    for (int i = 0; i < ans.size(); i++) {
+        cout << ans[i] << endl;
+    }
+}
 
 int main() {
     // Day 010 
@@ -96,6 +125,8 @@ int main() {
     // p5();
 
     // p6();
+
+    p7();
 
 
     return 0;
