@@ -19,9 +19,8 @@ void p1() {
     long long i = 1;
 
     // find factorials 
-    while (true) {
+    while (factorial <= n / i) {
         factorial *= i++;
-        if (factorial > n) break;
         factorials.push_back(factorial);
     }
 
