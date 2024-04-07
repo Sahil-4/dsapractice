@@ -12,5 +12,5 @@ Index - April 2024
 | Day 4 | Leetcode 1781 Sum of Beauty of All Substrings           | https://leetcode.com/problems/sum-of-beauty-of-all-substrings/          | -     |
 | Day 5 | Leetcode 237. Delete Node in a Linked List              | https://leetcode.com/problems/delete-node-in-a-linked-list/             | -     |
 | Day 5 | Leetcode 876. Middle of the Linked List                 | https://leetcode.com/problems/middle-of-the-linked-list/                | -     |
-|       |                                                         |                                                                         | -     |
-|       |                                                         |                                                                         | -     |
+| Day 6 | Leetcode 206. Reverse Linked List                       | https://leetcode.com/problems/reverse-linked-list/                      | -     |
+| Day 7 | Leetcode 141. Linked List Cycle                         | https://leetcode.com/problems/linked-list-cycle/                        | -     |
