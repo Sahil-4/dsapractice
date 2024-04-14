@@ -14,3 +14,14 @@ Index - April 2024
 | Day 5 | Leetcode 876. Middle of the Linked List                 | https://leetcode.com/problems/middle-of-the-linked-list/                | -     |
 | Day 6 | Leetcode 206. Reverse Linked List                       | https://leetcode.com/problems/reverse-linked-list/                      | -     |
 | Day 7 | Leetcode 141. Linked List Cycle                         | https://leetcode.com/problems/linked-list-cycle/                        | -     |
+| Day 8  | Leetcode 142. Linked List Cycle II                      | https://leetcode.com/problems/linked-list-cycle-ii/                     | -     |
+| Day 9  | Leetcode 234. Palindrome Linked List                    | https://leetcode.com/problems/palindrome-linked-list/                   | -     |
+| Day 10 | Leetcode 328. Odd Even Linked List                      | https://leetcode.com/problems/odd-even-linked-list/                     | -     |
+| Day 10 | Leetcode 19. Remove Nth Node From End of List           | https://leetcode.com/problems/remove-nth-node-from-end-of-list/         | -     |
+| Day 11 | Leetcode 2095. Delete the Middle Node of a Linked List  | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/  | -     |
+| Day 12 | Leetcode 148. Sort List                                 | https://leetcode.com/problems/sort-list/                                | -     |
+| Day 13 | Leetcode 160. Intersection of Two Linked Lists          | https://leetcode.com/problems/intersection-of-two-linked-lists/         | -     |
+| Day 13 | Leetcode 2. Add Two Numbers                             | https://leetcode.com/problems/add-two-numbers/                          | -     |
+| Day 14 | Leetcode 83. Remove Duplicates from Sorted List         | https://leetcode.com/problems/remove-duplicates-from-sorted-list/       | -     |
+|        |                                                         |                                                                         |       |
+|        |                                                         |                                                                         |       |
