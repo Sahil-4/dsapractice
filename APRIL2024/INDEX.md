@@ -23,5 +23,13 @@ Index - April 2024
 | Day 13 | Leetcode 160. Intersection of Two Linked Lists          | https://leetcode.com/problems/intersection-of-two-linked-lists/         | -     |
 | Day 13 | Leetcode 2. Add Two Numbers                             | https://leetcode.com/problems/add-two-numbers/                          | -     |
 | Day 14 | Leetcode 83. Remove Duplicates from Sorted List         | https://leetcode.com/problems/remove-duplicates-from-sorted-list/       | -     |
+| Day 15 | Leetcode 25. Reverse Nodes in k-Group                                      | https://leetcode.com/problems/reverse-nodes-in-k-group/                                    | -     |
+| Day 16 | Leetcode 61. Rotate List                                                   | https://leetcode.com/problems/rotate-list/                                                 | -     |
+| Day 17 | Leetcode 138. Copy List with Random Pointer                                | https://leetcode.com/problems/copy-list-with-random-pointer/                               | -     |
+| Day 18 | Leetcode 50. Pow(x, n)                                                     | https://leetcode.com/problems/powx-n/                                                      | -     |
+| Day 19 | Leetcode 1922. Count Good Numbers                                          | https://leetcode.com/problems/count-good-numbers/                                          | -     |
+| Day 20 | Leetcode 22. Generate Parentheses                                          | https://leetcode.com/problems/generate-parentheses/                                        | -     |
+| Day 20 | Leetcode 78. Subsets                                                       | https://leetcode.com/problems/subsets/                                                     | -     |
+| Day 21 | Leetcode 1498. Number of Subsequences That Satisfy the Given Sum Condition | https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/ | -     |
 |        |                                                         |                                                                         |       |
 |        |                                                         |                                                                         |       |
