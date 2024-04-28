@@ -31,5 +31,14 @@ Index - April 2024
 | Day 20 | Leetcode 22. Generate Parentheses                                          | https://leetcode.com/problems/generate-parentheses/                                        | -     |
 | Day 20 | Leetcode 78. Subsets                                                       | https://leetcode.com/problems/subsets/                                                     | -     |
 | Day 21 | Leetcode 1498. Number of Subsequences That Satisfy the Given Sum Condition | https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/ | -     |
+| Day 22 | Leetcode 39. Combination Sum                                               | https://leetcode.com/problems/combination-sum/                                             | -     |
+| Day 23 | Leetcode 40. Combination Sum II                                            | https://leetcode.com/problems/combination-sum-ii/                                          | -     |
+| Day 24 | Leetcode 216. Combination Sum III                                          | https://leetcode.com/problems/combination-sum-iii/                                         | -     |
+| Day 24 | Leetcode 90. Subsets II                                                    | https://leetcode.com/problems/subsets-ii/                                                  | -     |
+| Day 25 | Leetcode 17. Letter Combinations of a Phone Number   | https://leetcode.com/problems/letter-combinations-of-a-phone-number/ | -     |
+| Day 26 | Leetcode 131. Palindrome Partitioning                            | https://leetcode.com/problems/palindrome-partitioning/                          | -     |
+| Day 27 | Leetcode 79. Word Search                                                |  https://leetcode.com/problems/word-search/                                           | -     |
+| Day 28 | Leetcode 51. N-Queens                                                     |  https://leetcode.com/problems/n-queens/                                                | -     |
+|        |                                                         |                                                                         |       |
 |        |                                                         |                                                                         |       |
 |        |                                                         |                                                                         |       |
