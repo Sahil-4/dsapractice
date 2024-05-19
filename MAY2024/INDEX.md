@@ -21,5 +21,21 @@ Index - MAY 2024
 | Day 11 | Leetcode 155. Min Stack                            | https://leetcode.com/problems/min-stack/                                   | -     |
 | Day 12 | Geeksforgeeks - Infix to Postfix                   | https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1       | -     |
 | Day 12 | Leetcode 224. Basic Calculator                     | https://leetcode.com/problems/basic-calculator/                            | -     |
-|            |                                                                      |                                                                                              |           |
-|            |                                                                      |                                                                                              |           |
+| Day 13 | Geeksforgeeks - Prefix to Infix Conversion         | https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1                         | -     |
+| Day 13 | Leetcode 496. Next Greater Element I               | https://leetcode.com/problems/next-greater-element-i/                                       | -     |
+| Day 14 | Geeksforgeeks - Prefix to Postfix Conversion       | https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1                       | -     |
+| Day 14 | Leetcode 503. Next Greater Element II              | https://leetcode.com/problems/next-greater-element-ii/                                      | -     |
+| Day 15 | Geeksforgeeks - Postfix to Prefix Conversion       | https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1                       | -     |
+| Day 15 | Leetcode 42. Trapping Rain Water                   | https://leetcode.com/problems/trapping-rain-water/                                          | -     |
+| Day 16 | Geeksforgeeks - Postfix to Infix Conversion        | https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1                        | -     |
+| Day 16 | Leetcode 907. Sum of Subarray Minimums             | https://leetcode.com/problems/sum-of-subarray-minimums/                                     | -     |
+| Day 17 | Leetcode 735. Asteroid Collision                   | https://leetcode.com/problems/asteroid-collision/                                           | -     |
+| Day 17 | Geeksforgeeks - Asteroid Collision                 | https://www.geeksforgeeks.org/problems/asteroid-collision/1                                 | -     |
+| Day 17 | Leetcode 2104. Sum of Subarray Ranges              | https://leetcode.com/problems/sum-of-subarray-ranges/                                       | -     |
+| Day 17 | Geeksforgeeks                                      | https://www.geeksforgeeks.org/problems/sum-of-subarray-ranges/1                             | -     |
+| Day 18 | Leetcode 402. Remove K Digits                      | https://leetcode.com/problems/remove-k-digits/                                              | -     |
+| Day 18 | Geeksforgeeks                                      | https://www.geeksforgeeks.org/problems/build-the-smallest2841/1                             | -     |
+| Day 19 | Leetcode 84. Largest Rectangle in Histogram        | https://leetcode.com/problems/largest-rectangle-in-histogram/                               | -     |
+| Day 19 | Geeksforgeeks                                      | https://www.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1 | -     |
+|        |                                                    |                                                                                             |       |
+|        |                                                    |                                                                                             |       |
