@@ -37,5 +37,19 @@ Index - MAY 2024
 | Day 18 | Geeksforgeeks                                      | https://www.geeksforgeeks.org/problems/build-the-smallest2841/1                             | -     |
 | Day 19 | Leetcode 84. Largest Rectangle in Histogram        | https://leetcode.com/problems/largest-rectangle-in-histogram/                               | -     |
 | Day 19 | Geeksforgeeks                                      | https://www.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1 | -     |
+| Day 20 | Leetcode 239. Sliding Window Maximum                           | https://leetcode.com/problems/sliding-window-maximum/                                         | -     |
+| Day 20 | Geeksforgeeks First negative integer in every window of size k | https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1 | -     |
+| Day 21 | Leetcode 901. Online Stock Span                                | https://leetcode.com/problems/online-stock-span/                                              | -     |
+| Day 21 | Geeksforgeeks                                                  | https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1                        | -     |
+| Day 22 | Geeksforgeeks The Celebrity Problem                            | https://www.geeksforgeeks.org/problems/the-celebrity-problem/1                                | -     |
+| Day 22 | Leetcode 146. LRU Cache                                        | https://leetcode.com/problems/lru-cache/                                                      | -     |
+| Day 23 | Leetcode 460. LFU Cache                                        | https://leetcode.com/problems/lfu-cache/                                                      | -     |
+| Day 23 | Geeksforgeeks                                                  | https://www.geeksforgeeks.org/problems/lfu-cache-1665050355/1                                 | -     |
+| Day 24 | Leetcode 3. Longest Substring Without Repeating Characters     | https://leetcode.com/problems/longest-substring-without-repeating-characters/                 | -     |
+| Day 24 | GeeksForGeeks                                                  | https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1                  | -     |
+| Day 25 | Leetcode 1004. Max Consecutive Ones III                        | https://leetcode.com/problems/max-consecutive-ones-iii/description/                           | -     |
+| Day 25 | Geeksforgeeks                                                  | https://www.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1                    | -     |
+| Day 26 | Leetcode 904. Fruit Into Baskets                               | https://leetcode.com/problems/fruit-into-baskets/                                             | -     |
+| Day 27 | Geeksforgeeks                                                  | https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1                        | -     |
 |        |                                                    |                                                                                             |       |
 |        |                                                    |                                                                                             |       |
