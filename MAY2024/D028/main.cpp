@@ -87,6 +87,7 @@ int numSubarraysWithSum(vector<int>& nums, int goal) {
 
 void p1() {
     // Problem 1 : Leetcode 930. Binary Subarrays With Sum - https://leetcode.com/problems/binary-subarrays-with-sum/ 
+    // Geeksforgeeks - https://www.geeksforgeeks.org/problems/binary-subarray-with-sum/1 
 
     vector<int> nums = {1, 0, 1, 1, 0, 0, 1};
     int goal = 2;
