@@ -50,6 +50,14 @@ Index - MAY 2024
 | Day 25 | Leetcode 1004. Max Consecutive Ones III                        | https://leetcode.com/problems/max-consecutive-ones-iii/description/                           | -     |
 | Day 25 | Geeksforgeeks                                                  | https://www.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1                    | -     |
 | Day 26 | Leetcode 904. Fruit Into Baskets                               | https://leetcode.com/problems/fruit-into-baskets/                                             | -     |
-| Day 27 | Geeksforgeeks                                                  | https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1                        | -     |
-|        |                                                    |                                                                                             |       |
-|        |                                                    |                                                                                             |       |
+| Day 26 | Geeksforgeeks                                                  | https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1                        | -     |
+| Day 27 | Leetcode 424. Longest Repeating Character Replacement | https://leetcode.com/problems/longest-repeating-character-replacement/ | -       |
+| Day 27 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1 | -      |
+| Day 28 | Leetcode 930. Binary Subarrays With Sum | https://leetcode.com/problems/binary-subarrays-with-sum/ | -       |
+| Day 28 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/binary-subarray-with-sum/1 | -       |
+| Day 29 | Leetcode 1248. Count Number of Nice Subarrays | https://leetcode.com/problems/count-number-of-nice-subarrays/ | -       |
+| Day 29 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1 | -       |
+| Day 30 | Leetcode 1358. Number of Substrings Containing All Three Characters | https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/ | -       |
+| Day 30 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/count-substring/1 | -       |
+| Day 31 | Leetcode 1423. Maximum Points You Can Obtain from Cards | https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ | -      |
+| Day 31 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/maximum-point-you-can-obtain-from-cards/0 | -       |
