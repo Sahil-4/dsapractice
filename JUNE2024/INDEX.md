@@ -20,6 +20,27 @@ Index - JUNE 2024
 | Day 8 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1 | -      |
 | Day 9 | Leetcode 53. Maximum Subarray | https://leetcode.com/problems/maximum-subarray/description/ | -       |
 | Day 9 | GeeksForGeeks Maximum Sub Array | https://www.geeksforgeeks.org/problems/maximum-sub-array5443/1 | -       |
+| Day 10 | Leetcode 31 Next permutation | https://leetcode.com/problems/next-permutation/ | -      |
+| Day 10 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/next-permutation5226/1 | -      |
+| Day 11 | Leetcode 48. Rotate Image | https://leetcode.com/problems/rotate-image/ | -      |
+| Day 11 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1 | -      |
+| Day 12 | Leetcode 54. Spiral Matrix | https://leetcode.com/problems/spiral-matrix/ | -      |
+| Day 12 | GeeksForGeeks Spiral Matrix | https://www.geeksforgeeks.org/problems/spiral-matrix--141631/1 | -      |
+| Day 13 | Leetcode 485. Max Consecutive Ones | https://leetcode.com/problems/max-consecutive-ones/description/ | -      |
+| Day 13 | GeeksForGeeks Longest Consecutive 1's | https://www.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1 | -      |
+| Day 14 | Leetcode 169. Majority Element | https://leetcode.com/problems/majority-element/description/ | -      |
+| Day 14 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/majority-element-1587115620/1 | -      |
+| Day 14 | Leetcode 560. Subarray Sum Equals K | https://leetcode.com/problems/subarray-sum-equals-k/description/ | -      |
+| Day 14 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1 | -      |
+| Day 15 | Leetcode 18. 4Sum | https://leetcode.com/problems/4sum/description/ | -      |
+| Day 15 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1 | -      |
+| Day 15 | Leetcode 875. Koko Eating Bananas | https://leetcode.com/problems/koko-eating-bananas/description/ | -      |
+| Day 15 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/koko-eating-bananas/1 | -      |
+| Day 16 | Leetcode 1539. Kth Missing Positive Number | https://leetcode.com/problems/kth-missing-positive-number/  | -      |
+| Day 16 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/k-th-missing-element3635/1  | -      |
+| Day 16 | Leetcode 1283. Find the Smallest Divisor Given a Threshold | https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/  | -      |
+| Day 16 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/smallest-divisor/1  | -      |
+|       |                                                   |                                                                              |       |
 |       |                                                   |                                                                              |       |
 |       |                                                   |                                                                              |       |
 |       |                                                   |                                                                              |       |
