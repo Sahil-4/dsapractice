@@ -40,7 +40,26 @@ Index - JUNE 2024
 | Day 16 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/k-th-missing-element3635/1  | -      |
 | Day 16 | Leetcode 1283. Find the Smallest Divisor Given a Threshold | https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/  | -      |
 | Day 16 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/smallest-divisor/1  | -      |
-|       |                                                   |                                                                              |       |
+| Day 17 | Leetcode 4. Median of Two Sorted Arrays | https://leetcode.com/problems/median-of-two-sorted-arrays/ | -      |
+| Day 17 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1 | -      |
+| Day 18 | Problem 1 : Leetcode 1552. Magnetic Force Between Two Balls | https://leetcode.com/problems/magnetic-force-between-two-balls/ | -      |
+| Day 18 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/aggressive-cows/0 | -      |
+| Day 19 | Leetcode 162. Find Peak Element | https://leetcode.com/problems/find-peak-element/ | -      |
+| Day 19 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/peak-element/1 | -      |
+| Day 19 | Leetcode 1901. Find a Peak Element II | https://leetcode.com/problems/find-a-peak-element-ii/ | -      |
+| Day 20 | Leetcode 151. Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string/ | -      |
+| Day 20 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1 | -      |
+| Day 21 | Leetcode 14. Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix/ | -      |
+| Day 21 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1 | -      |
+| Day 21 | Leetcode 1614. Maximum Nesting Depth of the Parentheses | https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/ | -      |
+| Day 21 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/maximum-nesting-depth-of-the-parentheses/0 | -      |
+| Day 22 | Leetcode 13. Roman to Integer | https://leetcode.com/problems/roman-to-integer  | -      |
+| Day 22 | GeeksForGeeks                                                  | https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1 | -      |
+| Day 22 | Leetcode 8. String to Integer (atoi) | https://leetcode.com/problems/string-to-integer-atoi/  | -      |
+| Day 22 |  GeeksForGeeks                                                 | https://www.geeksforgeeks.org/problems/implement-atoi/1 | -      |
+| Day 23 | Leetcode 27. Remove Element | https://leetcode.com/problems/remove-element/description/ | -      |
+| Day 23 | Leetcode 53. Maximum Subarray | https://leetcode.com/problems/maximum-subarray/description/ | -      |
+| Day 23 | GeeksForGeeks                                                  | https://www.geeksforgeeks.org/problems/maximum-sub-array5443/1 | -      |
 |       |                                                   |                                                                              |       |
 |       |                                                   |                                                                              |       |
 |       |                                                   |                                                                              |       |
