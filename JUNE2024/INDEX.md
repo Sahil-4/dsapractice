@@ -60,7 +60,24 @@ Index - JUNE 2024
 | Day 23 | Leetcode 27. Remove Element | https://leetcode.com/problems/remove-element/description/ | -      |
 | Day 23 | Leetcode 53. Maximum Subarray | https://leetcode.com/problems/maximum-subarray/description/ | -      |
 | Day 23 | GeeksForGeeks                                                  | https://www.geeksforgeeks.org/problems/maximum-sub-array5443/1 | -      |
-|       |                                                   |                                                                              |       |
-|       |                                                   |                                                                              |       |
-|       |                                                   |                                                                              |       |
-|       |                                                   |                                                                              |       |
+| Day 24 | Leetcode 1759. Count Number of Homogenous Substrings | https://leetcode.com/problems/count-number-of-homogenous-substrings/ | -      |
+| Day 24 | GeeksForGeeks Substrings with same first and last characters | https://www.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters3644/1 | -      |
+| Day 24 | Leetcode 5. Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/ | -      |
+| Day 24 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1 | -      |
+| Day 25 | Leetcode 1781 Sum of Beauty of All Substrings | https://leetcode.com/problems/sum-of-beauty-of-all-substrings/ | -      |
+| Day 25 | GeeksForGeeks | https://www.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1 | -      |
+| Day 26 | Leetcode 142. Linked List Cycle II | https://leetcode.com/problems/linked-list-cycle-ii/ | -      |
+| Day 26 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1 | -      |
+| Day 26 | Leetcode 234. Palindrome Linked List | https://leetcode.com/problems/palindrome-linked-list/ | -      |
+| Day 26 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1 | -      |
+| Day 27 | Leetcode 2095. Delete the Middle Node of a Linked List | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/ | -      |
+| Day 27 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/delete-middle-of-linked-list/1 | -      |
+| Day 28 | Leetcode 83. Remove Duplicates from Sorted List | https://leetcode.com/problems/remove-duplicates-from-sorted-list/ | -      |
+| Day 28 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1 | -      |
+| Day 29 | Leetcode 2. Add Two Numbers  | https://leetcode.com/problems/add-two-numbers/ | -      |
+| Day 29 | Geeksforgeeks                                                  | https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1 | -      |
+| Day 29 | Leetcode 25. Reverse Nodes in k-Group  | https://leetcode.com/problems/reverse-nodes-in-k-group/ | -      |
+| Day 29 | Geeksforgeeks                                                  | https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1  | -      |
+| Day 30 | Leetcode 138. Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer/  | -      |
+| Day 30 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1 | -      |
+| Day 30 | Leetcode 725. Split Linked List in Parts | https://leetcode.com/problems/split-linked-list-in-parts/ | -      |
