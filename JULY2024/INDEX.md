@@ -26,4 +26,20 @@ Index - JUNE 2024
 | Day 6 | Geeksforgeeks                                                              | https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1                    | -     |
 | Day 7 | Leetcode 503. Next Greater Element II                                      | https://leetcode.com/problems/next-greater-element-ii/                                     | -     |
 | Day 7 | Geeksforgeeks                                                              | https://www.geeksforgeeks.org/problems/next-greater-element-2/1                            | -     |
+| Day 8 | Leetcode 42. Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/ | -      |
+| Day 8 | Geeksforgeeks                                                                           | https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1 | -      |
+| Day 9 | Leetcode 907. Sum of Subarray Minimums | https://leetcode.com/problems/sum-of-subarray-minimums/  | -      |
+| Day 9 | Geeksforgeeks                                                                           | https://www.geeksforgeeks.org/problems/sum-of-subarray-minimum/1 | -      |
+| Day 10 | Leetcode 735. Asteroid Collision | https://leetcode.com/problems/asteroid-collision/description/  | -      |
+| Day 10 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/asteroid-collision/1 | -      |
+| Day 11 | Leetcode 2104. Sum of Subarray Ranges              | https://leetcode.com/problems/sum-of-subarray-ranges/                                       | -     |
+| Day 11 | Geeksforgeeks                                      | https://www.geeksforgeeks.org/problems/sum-of-subarray-ranges/1                             | -     |
+| Day 12 | Leetcode 84. Largest Rectangle in Histogram | https://leetcode.com/problems/largest-rectangle-in-histogram/ | -      |
+| Day 12 | Geeksforgeeks                                                                           | https://www.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1 | -      |
+| Day 12 | Leetcode 239. Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum/ | -      |
+| Day 12 | Geeksforgeeks                                                                           | https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1 | -      |
+| Day 13 | Leetcode 901. Online Stock Span | https://leetcode.com/problems/online-stock-span/ | -      |
+| Day 13 | Geeksforgeeks                                                                           | https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1 | -      |
+| Day 14 | Leetcode 146. LRU Cache | https://leetcode.com/problems/lru-cache/ | -      |
+| Day 14 | Geeksforgeeks                                                                           | https://www.geeksforgeeks.org/problems/lru-cache/1 | -      |
 |       |                                                                            |                                                                                            |       |
