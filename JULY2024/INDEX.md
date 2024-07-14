@@ -42,4 +42,5 @@ Index - JUNE 2024
 | Day 13 | Geeksforgeeks                                                                           | https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1 | -      |
 | Day 14 | Leetcode 146. LRU Cache | https://leetcode.com/problems/lru-cache/ | -      |
 | Day 14 | Geeksforgeeks                                                                           | https://www.geeksforgeeks.org/problems/lru-cache/1 | -      |
+| Day 14 | Leetcode 3216. Lexicographically Smallest String After a Swap | https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/ | -      |
 |       |                                                                            |                                                                                            |       |
