@@ -65,11 +65,37 @@ void p1() {
     cout << endl;
 }
 
+string getSmallestString(string s) {
+    int n = s.length();
+
+    for (int i = 0; i < n; i++) {
+        if (i == n - 1) break;
+
+        int a = s[i] - '0';
+        int b = s[i + 1] - '0';
+
+        if (((a & 1) == (b & 1)) && a > b) {
+            swap(s[i], s[i + 1]); break;
+        }
+    }
+
+    return s;
+}
+
+void p2() {
+    // P2 : Leetcode 3216. Lexicographically Smallest String After a Swap - https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/ 
+
+    // cout << getSmallestString("3210") << endl;
+    cout << getSmallestString("4210") << endl;
+}
+
 
 int main() {
     // Day 14 
 
     p1();
+
+    p2();
 
 
     return 0;
