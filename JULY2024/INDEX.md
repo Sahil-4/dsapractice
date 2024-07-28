@@ -58,4 +58,21 @@ Index - JUNE 2024
 | Day 21 | Leetcode 2974. Minimum Number Game                                         | https://leetcode.com/problems/minimum-number-game/                                          | -     |
 | Day 21 | Leetcode 45 Jump Game II                                                   | https://leetcode.com/problems/jump-game-ii/description/                                     | -     |
 | Day 21 | Geeksforgeeks                                                              | https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1                 | -     |
+| Day 22 | Leetcode 1464. Maximum Product of Two Elements in an Array                 | https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/                  | -     |
+| Day 22 | Geeksforgeeks                                                              | https://www.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/0                 | -     |
+| Day 23 | Leetcode 455. Assign Cookies                                               | https://leetcode.com/problems/assign-cookies/description/                                   | -     |
+| Day 23 | Geeksforgeeks                                                              | https://www.geeksforgeeks.org/problems/assign-cookies/0                                     | -     |
+| Day 24 | Geeksforgeeks Fractional Knapsack | https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1 | -      |
+| Day 24 | Leetcode 860. Lemonade Change | https://leetcode.com/problems/lemonade-change/descripion/ | -      |
+| Day 24 | Geeksforgeeks                                                                           | https://www.geeksforgeeks.org/problems/lemonade-change/0 | -      |
+| Day 25 | Leetcode 678. Valid Parenthesis String | https://leetcode.com/problems/valid-parenthesis-string/ | -      |
+| Day 25 | Geeksforgeeks Parenthesis Checker | https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1 | -      |
+| Day 26 | Geeksforgeeks N meetings in one room | https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1 | -      |
+| Day 26 | Leetcode 1353. Maximum Number of Events That Can Be Attended | https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/ | -      |
+| Day 27 | GeeksForGeeks Shortest Job first | https://www.geeksforgeeks.org/problems/shortest-job-first/1 | -      |
+| Day 27 | Leetcode 435. Non-overlapping Intervals | https://leetcode.com/problems/non-overlapping-intervals/description/ | -      |
+| Day 27 | GeeksForGeeks                                                                           | https://www.geeksforgeeks.org/problems/non-overlapping-intervals/0 | -      |
+| Day 28 | Geeksforgeeks Page Faults in LRU | https://www.geeksforgeeks.org/problems/page-faults-in-lru5603/1 | -      |
+| Day 28 | Leetcode 57. Insert Interval | https://leetcode.com/problems/insert-interval/ | -      |
+| Day 28 | GeeksForGeeks                                                                           | https://www.geeksforgeeks.org/problems/insert-interval-1666733333/0 | -      |
 |        |                                                                            |                                                                                             |       |
