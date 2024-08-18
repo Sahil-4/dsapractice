@@ -31,5 +31,21 @@ Index - AUGUST 2024
 | Day 10 | GeeksForGeeks Tree Boundary Traversal                   | https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1     | -     |
 | Day 11 | Leetcode 987. Vertical Order Traversal of a Binary Tree | https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/       | -     |
 | Day 11 | GeeksForGeeks                                           | https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1 | -     |
+| Day 12 | GeeksForGeeks Top View of Binary Tree | https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1 | -      |
+| Day 12 | Leetcode 199. Binary Tree Right Side View | https://leetcode.com/problems/binary-tree-right-side-view/ | -      |
+| Day 12 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1 | -      |
+| Day 13 | Leetcode 101. Symmetric Tree | https://leetcode.com/problems/symmetric-tree/ | -      |
+| Day 13 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/symmetric-tree/1 | -      |
+| Day 13 | GeeksForGeeks Bottom View of Binary Tree | https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1 | -      |
+| Day 14 | Leetcode 257. Binary Tree Paths | https://leetcode.com/problems/binary-tree-paths/ | -      |
+| Day 14 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1 | -      |
+| Day 15 | Leetcode 236. Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | -      |
+| Day 15 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1 | -      |
+| Day 16 | Leetcode 662. Maximum Width of Binary Tree | https://leetcode.com/problems/maximum-width-of-binary-tree/ | -      |
+| Day 16 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/maximum-width-of-tree/1 | -      |
+| Day 17 | Leetcode 2236. Root Equals Sum of Children | https://leetcode.com/problems/root-equals-sum-of-children/ | -      |
+| Day 17 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/children-sum-parent/1 | -      |
+| Day 18 | Leetcode 863. All Nodes Distance K in Binary Tree | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/ | -      |
+| Day 18 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1 | -      |
 |        |                                                         |                                                                                |       |
 |        |                                                         |                                                                                |       |
