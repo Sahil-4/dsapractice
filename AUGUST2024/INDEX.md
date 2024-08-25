@@ -47,5 +47,19 @@ Index - AUGUST 2024
 | Day 17 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/children-sum-parent/1 | -      |
 | Day 18 | Leetcode 863. All Nodes Distance K in Binary Tree | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/ | -      |
 | Day 18 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1 | -      |
+| Day 19 | Leetcode 2385. Amount of Time for Binary Tree to Be Infected | https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/ | -      |
+| Day 19 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/burning-tree/1 | -      |
+| Day 20 | Leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | -      |
+| Day 20 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/construct-tree-1/1 | -      |
+| Day 21 | Leetcode 106. Construct Binary Tree from Inorder and Postorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | -      |
+| Day 21 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1 | -      |
+| Day 22 | Leetcode 297. Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ | -      |
+| Day 22 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1 | -      |
+| Day 23 | Leetcode 94. Binary Tree Inorder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal/ | -      |
+| Day 23 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/inorder-traversal/1 | -      |
+| Day 24 | Leetcode 144. Binary Tree Preorder Traversal | https://leetcode.com/problems/binary-tree-preorder-traversal/ | -      |
+| Day 24 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/preorder-traversal/1 |  -     |
+| Day 25 | Leetcode 114. Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ |  -     |
+| Day 25 | GeeksForGeeks                                                        | https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1 |  -     |
 |        |                                                         |                                                                                |       |
 |        |                                                         |                                                                                |       |
