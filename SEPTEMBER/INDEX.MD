@@ -46,6 +46,25 @@ Index - SEPTEMBER 2024
 | Day 14 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1                   | -     |
 | Day 15 | Leetcode 451. Sort Characters By Frequency                          | https://leetcode.com/problems/sort-characters-by-frequency/                                 | -     |
 | Day 15 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0          | -     |
-|        |                                                                     |                                                                                             |       |
+| Day 16 | Leetcode 658. Find K Closest Elements                               | https://leetcode.com/problems/find-k-closest-elements/                                      | -     |
+| Day 16 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/k-closest-elements3619/1                             | -     |
+| Day 17 | Leetcode 378. Kth Smallest Element in a Sorted Matrix               | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/                      | -     |
+| Day 17 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1                              | -     |
+| Day 18 | Leetcode 703. Kth Largest Element in a Stream                       | https://leetcode.com/problems/kth-largest-element-in-a-stream/                              | -     |
+| Day 18 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1                | -     |
+| Day 19 | Leetcode 701. Insert into a Binary Search Tree                      | https://leetcode.com/problems/insert-into-a-binary-search-tree/                             | -     |
+| Day 19 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1                             | -     |
+| Day 19 | Leetcode 450. Delete Node in a BST                                  | https://leetcode.com/problems/delete-node-in-a-bst/description/                             | -     |
+| Day 19 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1                             | -     |
+| Day 20 | Leetcode 235. Lowest Common Ancestor of a Binary Search Tree        | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/               | -     |
+| Day 20 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1                    | -     |
+| Day 20 | Leetcode 1008. Construct Binary Search Tree from Preorder Traversal | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/         | -     |
+| Day 20 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/preorder-to-postorder4423/1                          | -     |
+| Day 21 | Leetcode 653. Two Sum IV - Input is a BST                           | https://leetcode.com/problems/two-sum-iv-input-is-a-bst/                                    | -     |
+| Day 21 | Geeksforgeeks                                                       | https://www.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1               | -     |
+| Day 21 | Leetcode 99. Recover Binary Search Tree                             | https://leetcode.com/problems/recover-binary-search-tree/                                   | -     |
+| Day 21 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1                           | -     |
+| Day 22 | Leetcode 846. Hand of Straights                                     | https://leetcode.com/problems/hand-of-straights/                                            | -     |
+| Day 22 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/hands-of-straights/0                                 | -     |
 |        |                                                                     |                                                                                             |       |
 |        |                                                                     |                                                                                             |       |
