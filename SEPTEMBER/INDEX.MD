@@ -66,5 +66,26 @@ Index - SEPTEMBER 2024
 | Day 21 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1                           | -     |
 | Day 22 | Leetcode 846. Hand of Straights                                     | https://leetcode.com/problems/hand-of-straights/                                            | -     |
 | Day 22 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/hands-of-straights/0                                 | -     |
+| Day 23 | GeeksForGeeks Print adjacency list                                  | https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1                    | -     |
+| Day 23 | GeeksForGeeks BFS of graph                                          | https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1                             | -     |
+| Day 23 | GeeksForGeeks DFS of Graph                                          | https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1                  | -     |
+| Day 23 | Leetcode 547. Number of Provinces                                   | https://leetcode.com/problems/number-of-provinces/                                          | -     |
+| Day 23 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/number-of-provinces/1                                | -     |
+| Day 24 | Leetcode 994. Rotting Oranges                                       | https://leetcode.com/problems/rotting-oranges/                                              | -     |
+| Day 24 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/rotten-oranges2536/1                                 | -     |
+| Day 24 | Leetcode 733. Flood Fill                                            | https://leetcode.com/problems/flood-fill/                                                   | -     |
+| Day 24 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1                           | -     |
+| Day 25 | GeeksForGeeks Undirected Graph Cycle                                | https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1                | -     |
+| Day 25 | Leetcode 542. 01 Matrix                                             | https://leetcode.com/problems/01-matrix/                                                    | -     |
+| Day 25 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1       | -     |
+| Day 26 | GeeksForGeeks Undirected Graph Cycle - DFS                          | https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1                | -     |
+| Day 26 | Leetcode 130. Surrounded Regions                                    | https://leetcode.com/problems/surrounded-regions/description/                               | -     |
+| Day 26 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1                             | -     |
+| Day 27 | Leetcode 1020. Number of Enclaves                                   | https://leetcode.com/problems/number-of-enclaves/description/                               | -     |
+| Day 27 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/number-of-enclaves/0                                 | -     |
+| Day 28 | Leetcode 127. Word Ladder                                           | https://leetcode.com/problems/word-ladder/description/                                      | -     |
+| Day 28 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/word-ladder/1                                        | -     |
+| Day 29 | Leetcode 126. Word Ladder II                                        | https://leetcode.com/problems/word-ladder-ii/description/                                   | -     |
+| Day 29 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/word-ladder-ii/1                                     | -     |
 |        |                                                                     |                                                                                             |       |
 |        |                                                                     |                                                                                             |       |
