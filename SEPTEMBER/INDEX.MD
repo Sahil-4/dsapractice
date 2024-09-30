@@ -87,5 +87,5 @@ Index - SEPTEMBER 2024
 | Day 28 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/word-ladder/1                                        | -     |
 | Day 29 | Leetcode 126. Word Ladder II                                        | https://leetcode.com/problems/word-ladder-ii/description/                                   | -     |
 | Day 29 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/word-ladder-ii/1                                     | -     |
-|        |                                                                     |                                                                                             |       |
-|        |                                                                     |                                                                                             |       |
+| Day 30 | Leetcode 785. Is Graph Bipartite?                                   | https://leetcode.com/problems/is-graph-bipartite/                                           | -     |
+| Day 30 | GeeksForGeeks                                                       | https://www.geeksforgeeks.org/problems/bipartite-graph/1                                    | -     |
