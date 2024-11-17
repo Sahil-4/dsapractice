@@ -24,6 +24,22 @@ Index - NOVEMBER 2024
 | Day 9 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/triangle-path-sum/1 | -      |
 | Day 10 | Leetcode 931. Minimum Falling Path Sum | https://leetcode.com/problems/minimum-falling-path-sum/ | -      |
 | Day 10 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/path-in-matrix3805/1 | -      |
+| Day 11 | Leetcode 1463. Cherry Pickup II | https://leetcode.com/problems/cherry-pickup-ii/ | -      |
+| Day 11 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/chocolates-pickup/1 | -      |
+| Day 12 | Geeksforgeeks Subset Sum Problem | https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1 | -      |
+| Day 12 | Leetcode 416. Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum/ | -      |
+| Day 13 | Leetcode 2035. Partition Array Into Two Arrays to Minimize Sum Difference | https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/ | -      |
+| Day 13 | Geeksforgeeks Minimum sum partition | https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1 | -      |
+| Day 14 | Geeksforgeeks Perfect Sum Problem Geeksforgeeks | https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1 | -      |
+| Day 14 | Geeksforgeeks Partitions with Given Difference | https://www.geeksforgeeks.org/problems/partitions-with-given-difference/0 | -      |
+| Day 14 | Leetcode 322. Coin Change | https://leetcode.com/problems/coin-change/description/ | -      |
+| Day 15 | Geeksforgeeks 0 - 1 Knapsack Problem | https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1 | -      |
+| Day 15 | Leetcode 494. Target Sum | https://leetcode.com/problems/target-sum/description | -      |
+| Day 16 | Leetcode 518. Coin Change II | https://leetcode.com/problems/coin-change-ii/description/ | -      |
+| Day 16 | Geeksforgeeks Knapsack with Duplicate Items | https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1 | -      |
+| Day 16 | Geeksforgeeks Rod Cutting | https://www.geeksforgeeks.org/problems/rod-cutting0840/1 | -      |
+| Day 17 | Leetcode 1143. Longest Common Subsequence | https://leetcode.com/problems/longest-common-subsequence/ | -      |
+| Day 17 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1 | -      |
 |       |                                           |                                                                                       |       |
 |       |                                           |                                                                                       |       |
 |       |                                           |                                                                                       |       |
