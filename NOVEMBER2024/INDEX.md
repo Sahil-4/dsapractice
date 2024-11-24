@@ -40,6 +40,31 @@ Index - NOVEMBER 2024
 | Day 16 | Geeksforgeeks Rod Cutting | https://www.geeksforgeeks.org/problems/rod-cutting0840/1 | -      |
 | Day 17 | Leetcode 1143. Longest Common Subsequence | https://leetcode.com/problems/longest-common-subsequence/ | -      |
 | Day 17 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1 | -      |
+| Day 18 | Geeksforgeeks Longest Common Substring | https://www.geeksforgeeks.org/problems/longest-common-substring1452/1 | -      |
+| Day 18 | Leetcode 516. Longest Palindromic Subsequence | https://leetcode.com/problems/longest-palindromic-subsequence/ | -      |
+| Day 19 | Leetcode 1312. Minimum Insertion Steps to Make a String Palindrome | https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/ | -      |
+| Day 19 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/form-a-palindrome1455/1 | -      |
+| Day 19 | Leetcode 583. Delete Operation for Two Strings | https://leetcode.com/problems/delete-operation-for-two-strings/ | -      |
+| Day 19 | Geeksforgeeks (same) | https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1 | -      |
+| Day 20 | Leetcode 1092. Shortest Common Supersequence | https://leetcode.com/problems/shortest-common-supersequence/ | -      |
+| Day 20 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1 | -      |
+| Day 20 | Leetcode 115. Distinct Subsequences | https://leetcode.com/problems/distinct-subsequences/ | -      |
+| Day 21 | Leetcode 72. Edit Distance | https://leetcode.com/problems/edit-distance/ | -      |
+| Day 21 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/edit-distance3702/1 | -      |
+| Day 21 | Leetcode 44. Wildcard Matching | https://leetcode.com/problems/wildcard-matching/ | -      |
+| Day 21 | Geeksforgeeks | https://leetcode.com/problems/wildcard-matching/ | -      |
+| Day 22 | Leetcode 121. Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | -      |
+| Day 22 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/buy-stock-2/1 | -      |
+| Day 22 | Leetcode 122. Best Time to Buy and Sell Stock II | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | -      |
+| Day 22 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1 | -      |
+| Day 22 | Leetcode 123. Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/ | -      |
+| Day 22 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1 | -      |
+| Day 23 | Leetcode 188. Best Time to Buy and Sell Stock IV | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/ | -      |
+| Day 23 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/maximum-profit4657/1 | -      |
+| Day 23 | Leetcode 309. Best Time to Buy and Sell Stock with Cooldown | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/ | -      |
+| Day 23 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/buy-stock-with-cooldown/1 | -      |
+| Day 24 | Leetcode 714. Best Time to Buy and Sell Stock with Transaction Fee | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/ | -      |
+| Day 24 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/buy-stock-with-transaction-fee/1 | -      |
 |       |                                           |                                                                                       |       |
 |       |                                           |                                                                                       |       |
 |       |                                           |                                                                                       |       |
