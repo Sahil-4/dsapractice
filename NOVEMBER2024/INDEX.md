@@ -65,6 +65,22 @@ Index - NOVEMBER 2024
 | Day 23 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/buy-stock-with-cooldown/1 | -      |
 | Day 24 | Leetcode 714. Best Time to Buy and Sell Stock with Transaction Fee | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/ | -      |
 | Day 24 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/buy-stock-with-transaction-fee/1 | -      |
-|       |                                           |                                                                                       |       |
-|       |                                           |                                                                                       |       |
-|       |                                           |                                                                                       |       |
+| Day 25 | Leetcode 300. Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence/description/ | -      |
+| Day 25 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1 | -      |
+| Day 25 | Geeksforgeeks Print Longest Increasing Subsequence | https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1 | -      |
+| Day 26 | Leetcode 368. Largest Divisible Subset | https://leetcode.com/problems/largest-divisible-subset/ | -      |
+| Day 26 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/largest-divisible-subset--170643/1 | -      |
+| Day 27 | Leetcode 1048. Longest String Chain | https://leetcode.com/problems/longest-string-chain/ | -      |
+| Day 27 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/longest-string-chain/1 | -      |
+| Day 27 | Geeksforgeeks Longest Bitonic subsequence | https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1 | -      |
+| Day 27 | Leetcode 673. Number of Longest Increasing Subsequence | https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/ | -      |
+| Day 27 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/number-of-longest-increasing-subsequence/0 | -      |
+| Day 28 | Geeksforgeeks Matrix Chain Multiplication | https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1 | -      |
+| Day 28 | Leetcode 1547. Minimum Cost to Cut a Stick | https://leetcode.com/problems/minimum-cost-to-cut-a-stick/ | -      |
+| Day 29 | Leetcode 312. Burst Balloons | https://leetcode.com/problems/burst-balloons/description/ | -      |
+| Day 29 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/burst-balloons/1 | -      |
+| Day 30 | Geeksforgeeks Boolean Parenthesization | https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1 | -      |
+| Day 30 | Leetcode 132. Palindrome Partitioning II | https://leetcode.com/problems/palindrome-partitioning-ii/description/ | -      |
+| Day 30 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1 | -      |
+| Day 30 | Leetcode 1043. Partition Array for Maximum Sum | https://leetcode.com/problems/partition-array-for-maximum-sum/description/ | -      |
+| Day 30 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/partition-array-for-maximum-sum/1 | -      |
