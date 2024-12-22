@@ -39,5 +39,22 @@ Index - DECEMBER 2024
 | Day 14 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/print-anagrams-together/1 | -      |
 | Day 15 | Leetcode 535. Encode and Decode TinyURL | https://leetcode.com/problems/encode-and-decode-tinyurl/description/ | -      |
 | Day 15 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/encode-and-decode-strings/1 | -      |
+| Day 16 | Leetcode 213. House Robber II | https://leetcode.com/problems/house-robber-ii/description/ | -      |
+| Day 16 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/house-robber-ii/0 | -      |
+| Day 16 | Problem 2 : Leetcode 120. Triangle | https://leetcode.com/problems/triangle/description/ | -      |
+| Day 16 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/triangle-path-sum/1 | -      |
+| Day 17 | Leetcode 416. Partition Equal Subset Sum | https://leetcode.com/problems/partition-equal-subset-sum/ | -      |
+| Day 17 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1 | -      |
+| Day 18 | Leetcode 455. Assign Cookies | https://leetcode.com/problems/assign-cookies/ | -      |
+| Day 18 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/assign-cookies/0 | -      |
+| Day 18 | Leetcode 494. Target Sum | https://leetcode.com/problems/target-sum/ | -      |
+| Day 19 | Leetcode 518. Coin Change II | https://leetcode.com/problems/coin-change-ii/description/ | -      |
+| Day 19 | Geeksforgeeks Knapsack with Duplicate Items | https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1 | -      |
+| Day 20 | Leetcode 1143. Longest Common Subsequence | https://leetcode.com/problems/longest-common-subsequence/ | -      |
+| Day 20 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1 | -      |
+| Day 21 | Leetcode 583. Delete Operation for Two Strings | https://leetcode.com/problems/delete-operation-for-two-strings/ | -      |
+| Day 21 | Geeksforgeeks Form a palindrome | https://www.geeksforgeeks.org/problems/form-a-palindrome1455/1 | -      |
+| Day 22 | Leetcode 1092. Shortest Common Supersequence | https://leetcode.com/problems/shortest-common-supersequence/ | -      |
+| Day 22 | Geeksforgeeks Wildcard Pattern Matching | https://www.geeksforgeeks.org/problems/wildcard-pattern-matching/1 | -      |
 |       |                                                       |                                                                                 |       |
 |       |                                                       |                                                                                 |       |
