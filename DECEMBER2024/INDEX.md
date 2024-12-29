@@ -56,5 +56,20 @@ Index - DECEMBER 2024
 | Day 21 | Geeksforgeeks Form a palindrome | https://www.geeksforgeeks.org/problems/form-a-palindrome1455/1 | -      |
 | Day 22 | Leetcode 1092. Shortest Common Supersequence | https://leetcode.com/problems/shortest-common-supersequence/ | -      |
 | Day 22 | Geeksforgeeks Wildcard Pattern Matching | https://www.geeksforgeeks.org/problems/wildcard-pattern-matching/1 | -      |
+| Day 23 | Leetcode 123. Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ | -      |
+| Day 23 | Geeksforgeeks Stock Buy and Sell – with Cooldown | https://www.geeksforgeeks.org/problems/buy-stock-with-cooldown/1 | -      |
+| Day 24 | Leetcode 1048. Longest String Chain | https://leetcode.com/problems/longest-string-chain/ | -      |
+| Day 24 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/longest-string-chain/0 | -      |
+| Day 25 | Geeksforgeeks Longest Bitonic subsequence | https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1 | -      |
+| Day 25 | Leetcode 673. Number of Longest Increasing Subsequence | https://leetcode.com/problems/number-of-longest-increasing-subsequence/ | -      |
+| Day 26 | Geeksforgeeks Matrix Chain Multiplication | https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1 | -      |
+| Day 26 | Leetcode 1547. Minimum Cost to Cut a Stick | https://leetcode.com/problems/minimum-cost-to-cut-a-stick/ | -      |
+| Day 27 | Leetcode 312. Burst Balloons | https://leetcode.com/problems/burst-balloons/ | -      |
+| Day 27 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/burst-balloons/1 | -      |
+| Day 28 | Leetcode 132. Palindrome Partitioning II | https://leetcode.com/problems/palindrome-partitioning-ii/ | -      |
+| Day 28 | Geeksforgeeks Count Square Submatrices with All Ones | https://www.geeksforgeeks.org/problems/count-square-submatrices-with-all-ones/0 | -      |
+| Day 29 | Geeksforgeeks Count of distinct substrings | https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1 | -      |
+| Day 29 | Leetcode 1707. Maximum XOR With an Element From Array | https://leetcode.com/problems/maximum-xor-with-an-element-from-array/ | -      |
+| Day 29 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/maximum-xor-with-an-element-from-array/0 | -      |
 |       |                                                       |                                                                                 |       |
 |       |                                                       |                                                                                 |       |
