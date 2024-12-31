@@ -71,5 +71,8 @@ Index - DECEMBER 2024
 | Day 29 | Geeksforgeeks Count of distinct substrings | https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1 | -      |
 | Day 29 | Leetcode 1707. Maximum XOR With an Element From Array | https://leetcode.com/problems/maximum-xor-with-an-element-from-array/ | -      |
 | Day 29 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/maximum-xor-with-an-element-from-array/0 | -      |
-|       |                                                       |                                                                                 |       |
-|       |                                                       |                                                                                 |       |
+| Day 30 | Leetcode 38. Count and Say | https://leetcode.com/problems/count-and-say/ | -      |
+| Day 30 | Geeksforgeeks Repeated String Match (Rebin karp) | https://www.geeksforgeeks.org/problems/repeated-string-match--141631/0 | -      |
+| Day 31 | Leetcode 28. Find the Index of the First Occurrence in a String (KMP) | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/ | -      |
+| Day 31 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/search-pattern0205/1 | -      |
+| Day 31 | Geeksforgeeks Longest Prefix Suffix | https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1 | -      |
