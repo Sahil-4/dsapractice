@@ -37,4 +37,37 @@ Index - January 2025
 | Day 5 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/convert-to-roman-no/1 | -      |
 | Day 5 | Leetcode 58. Length of Last Word | https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
 | Day 5 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/length-of-last-word5721/1 | -      |
+| Day 6 | Leetcode 14. Longest Common Prefix | https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 6 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1 | -      |
+| Day 6 | Leetcode 151. Reverse Words in a String | https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 6 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1 | -      |
+| Day 7 | Leetcode 6. Zigzag Conversion | https://leetcode.com/problems/zigzag-conversion/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 7 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/concatenation-of-zig-zag-string-in-n-rows0308/1 | -      |
+| Day 7 | Leetcode 28. Find the Index of the First Occurrence in a String | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 7 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/index-of-the-first-occurrence-of-pattern-in-a-text/0 | -      |
+| Day 8 | Leetcode 68. Text Justification | https://leetcode.com/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 8 | Leetcode 125. Valid Palindrome | https://leetcode.com/problems/valid-palindrome/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 8 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/palindrome-string0817/1 | -      |
+| Day 8 | Leetcode 392. Is Subsequence | https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 8 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/check-for-subsequence4930/1 | -      |
+| Day 8 | Leetcode 167. Two Sum II - Input Array Is Sorted | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 9 | Leetcode 11. Container With Most Water | https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 9 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/container-with-most-water0535/1 | -      |
+| Day 9 | Leetcode 15. 3Sum | https://leetcode.com/problems/3sum/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 9 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1 | -      |
+| Day 10 | Leetcode 209. Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 10 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1 | -      |
+| Day 10 | Leetcode 3. Longest Substring Without Repeating Characters | https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 10 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1 | -      |
+| Day 11 | Leetcode 30. Substring with Concatenation of All Words | https://leetcode.com/problems/substring-with-concatenation-of-all-words/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 11 | Leetcode 76. Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 11 | Leetcode 36. Valid Sudoku | https://leetcode.com/problems/valid-sudoku/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 11 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/is-sudoku-valid4820/1 | -      |
+| Day 12 | Leetcode 54. Spiral Matrix | https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 12 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/spiral-matrix--141631/0 | -      |
+| Day 12 | Leetcode 48. Rotate Image | https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 12 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/rotate-by-90-degree0356/0 | -      |
+| Day 12 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/0 | -      |
+| Day 12 | Leetcode 73. Set Matrix Zeroes | https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 12 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/set-matrix-zeroes/0 | -      |
 |       |                                                  |                                                                                                                              |       |
