@@ -70,4 +70,51 @@ Index - January 2025
 | Day 12 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/0 | -      |
 | Day 12 | Leetcode 73. Set Matrix Zeroes | https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
 | Day 12 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/set-matrix-zeroes/0 | -      |
+| Day 13 | Leetcode 289. Game of Life | https://leetcode.com/problems/game-of-life/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 13 | Leetcode 383. Ransom Note | https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 13 | Leetcode 205. Isomorphic Strings | https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 13 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1 | -      |
+| Day 13 | Leetcode 290. Word Pattern | https://leetcode.com/problems/word-pattern/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 13 | Leetcode 242. Valid Anagram | https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 13 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/anagram-1587115620/1 | -      |
+| Day 14 | Leetcode 49. Group Anagrams | https://leetcode.com/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 14 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/print-anagrams-together/1 | -      |
+| Day 14 | Leetcode 1. Two Sum | https://leetcode.com/problems/two-sum/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 14 | Leetcode 202. Happy Number | https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 14 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/happy-number1408/0 | -      |
+| Day 14 | Leetcode 219. Contains Duplicate II | https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 14 | Leetcode 128. Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 14 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/0 | -      |
+| Day 15 | Leetcode 228. Summary Ranges | https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 15 | Leetcode 56. Merge Intervals | https://leetcode.com/problems/merge-intervals/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 15 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/0 | -      |
+| Day 15 | Leetcode 57. Insert Interval | https://leetcode.com/problems/insert-interval/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 15 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/insert-interval-1666733333/0 | -      |
+| Day 15 | Leetcode 452. Minimum Number of Arrows to Burst Balloons | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 16 | Leetcode 20. Valid Parentheses | https://leetcode.com/problems/valid-parentheses/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 16 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1 | -      |
+| Day 16 | Leetcode 71. Simplify Path | https://leetcode.com/problems/simplify-path/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 17 | Leetcode 155. Min Stack | https://leetcode.com/problems/min-stack/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 17 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1 | -      |
+| Day 17 | Leetcode 150. Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 17 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1 | -      |
+| Day 17 | Leetcode 224. Basic Calculator | https://leetcode.com/problems/basic-calculator/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 18 | Leetcode 141. Linked List Cycle | https://leetcode.com/problems/linked-list-cycle/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 18 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1 | -      |
+| Day 18 | Leetcode 2. Add Two Numbers | https://leetcode.com/problems/add-two-numbers/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 18 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1 | -      |
+| Day 18 | Leetcode 21. Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 18 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1 | -      |
+| Day 18 | Leetcode 138. Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 18 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/0 | -      |
+| Day 18 | Leetcode 92. Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 18 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/reverse-a-sublist-of-a-linked-list/0 | -      |
+| Day 19 | Leetcode 25. Reverse Nodes in k-Group | https://leetcode.com/problems/reverse-nodes-in-k-group/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 19 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1 | -      |
+| Day 19 | Leetcode 19. Remove Nth Node From End of List | https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 19 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1 | -      |
+| Day 19 | Leetcode 82. Remove Duplicates from Sorted List II | https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 19 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1 | -      |
+| Day 19 | Leetcode 61. Rotate List | https://leetcode.com/problems/rotate-list/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 19 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1 | -      |
 |       |                                                  |                                                                                                                              |       |
