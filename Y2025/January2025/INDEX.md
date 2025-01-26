@@ -117,4 +117,49 @@ Index - January 2025
 | Day 19 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1 | -      |
 | Day 19 | Leetcode 61. Rotate List | https://leetcode.com/problems/rotate-list/?envType=study-plan-v2&envId=top-interview-150 | -      |
 | Day 19 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1 | -      |
+| Day 20 | Leetcode 86. Partition List | https://leetcode.com/problems/partition-list/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 20 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/partition-a-linked-list-around-a-given-value/1 | -      |
+| Day 20 | Leetcode 146. LRU Cache | https://leetcode.com/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 20 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/lru-cache/1 | -      |
+| Day 21 | Leetcode 104. Maximum Depth of Binary Tree | https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 21 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/0 | -      |
+| Day 21 | Leetcode 100. Same Tree | https://leetcode.com/problems/same-tree/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 21 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1 | -      |
+| Day 21 | Leetcode 226. Invert Binary Tree | https://leetcode.com/problems/invert-binary-tree/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 21 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/mirror-tree/0 | -      |
+| Day 21 | Leetcode 101. Symmetric Tree | https://leetcode.com/problems/symmetric-tree/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 21 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/symmetric-tree/1 | -      |
+| Day 22 | Leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 22 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/construct-tree-1/1 | -      |
+| Day 22 | Leetcode 106. Construct Binary Tree from Inorder and Postorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 22 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1 | -      |
+| Day 22 | Leetcode 117. Populating Next Right Pointers in Each Node II | https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 22 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/connect-nodes-at-same-level/1 | -      |
+| Day 22 | Leetcode 114. Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 22 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1 | -      |
+| Day 23 | Leetcode 112. Path Sum | https://leetcode.com/problems/path-sum/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 23 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/root-to-leaf-path-sum/1 | -      |
+| Day 23 | Leetcode 129. Sum Root to Leaf Numbers | https://leetcode.com/problems/sum-root-to-leaf-numbers/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 23 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/root-to-leaf-paths-sum/1 | -      |
+| Day 23 | Leetcode 124. Binary Tree Maximum Path Sum | https://leetcode.com/problems/binary-tree-maximum-path-sum/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 23 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1 | -      |
+| Day 24 | Leetcode 173. Binary Search Tree Iterator | https://leetcode.com/problems/binary-search-tree-iterator/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 24 | Leetcode 222. Count Complete Tree Nodes | https://leetcode.com/problems/count-complete-tree-nodes/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 24 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/0 | -      |
+| Day 24 | Leetcode 236. Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 24 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1 | -      |
+| Day 25 | Leetcode 199. Binary Tree Right Side View | https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 25 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1 | -      |
+| Day 25 | Leetcode 637. Average of Levels in Binary Tree | https://leetcode.com/problems/average-of-levels-in-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 25 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/level-of-a-node-in-binary-tree/1 | -      |
+| Day 25 | Leetcode 102. Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 25 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/level-order-traversal/1 | -      |
+| Day 25 | Leetcode 103. Binary Tree Zigzag Level Order Traversal | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 25 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1 | -      |
+| Day 26 | Leetcode 530. Minimum Absolute Difference in BST | https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 26 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/0 | -      |
+| Day 26 | Leetcode 230. Kth Smallest Element in a BST | https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 26 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/0 | -      |
+| Day 26 | Leetcode 98. Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 26 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/check-for-bst/1 | -      |
 |       |                                                  |                                                                                                                              |       |
