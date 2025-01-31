@@ -162,4 +162,24 @@ Index - January 2025
 | Day 26 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/minimum-absolute-difference-in-bst-1665139652/0 | -      |
 | Day 26 | Leetcode 98. Validate Binary Search Tree | https://leetcode.com/problems/validate-binary-search-tree/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
 | Day 26 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/check-for-bst/1 | -      |
-|       |                                                  |                                                                                                                              |       |
+| Day 27 | Leetcode 200. Number of Islands | https://leetcode.com/problems/number-of-islands/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 27 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1 | -      |
+| Day 27 | Leetcode 130. Surrounded Regions | https://leetcode.com/problems/surrounded-regions/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 27 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1 | -      |
+| Day 28 | Leetcode 133. Clone Graph | https://leetcode.com/problems/clone-graph/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 28 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/clone-graph/1 | -      |
+| Day 28 | Leetcode 399. Evaluate Division | https://leetcode.com/problems/evaluate-division/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 29 | Leetcode 207. Course Schedule | https://leetcode.com/problems/course-schedule/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 29 | Leetcode 210. Course Schedule II | https://leetcode.com/problems/course-schedule-ii/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 29 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/course-schedule/1 | -      |
+| Day 30 | Leetcode 909. Snakes and Ladders | https://leetcode.com/problems/snakes-and-ladders/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 30 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1 | -      |
+| Day 30 | Leetcode 433. Minimum Genetic Mutation | https://leetcode.com/problems/minimum-genetic-mutation/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 30 | Leetcode 127. Word Ladder | https://leetcode.com/problems/word-ladder/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 30 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/word-ladder/1  | -      |
+| Day 31 | Leetcode 208. Implement Trie (Prefix Tree) | https://leetcode.com/problems/implement-trie-prefix-tree/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 31 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1 | -      |
+| Day 31 | Leetcode 211. Design Add and Search Words Data Structure | https://leetcode.com/problems/design-add-and-search-words-data-structure/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 31 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/design-add-and-search-words-data-structure--154618/1 | -      |
+| Day 31 | Leetcode 212. Word Search II | https://leetcode.com/problems/word-search-ii/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 31 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/word-search-ii/1 | -      |
