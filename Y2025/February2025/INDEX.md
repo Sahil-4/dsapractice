@@ -43,5 +43,44 @@ Index - February 2025
 | Day 9 | Leetcode 215. Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
 | Day 9 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/k-largest-elements4206/1 | -      |
 | Day 9 | Leetcode 502. IPO | https://leetcode.com/problems/ipo/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 10 | Leetcode 373. Find K Pairs with Smallest Sums | https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 10 | Leetcode 295. Find Median from Data Stream | https://leetcode.com/problems/find-median-from-data-stream/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 10 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1 | -      |
+| Day 11 | Leetcode 67. Add Binary | https://leetcode.com/problems/add-binary/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 11 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/add-binary-strings3805/1 | -      |
+| Day 11 | Leetcode 190. Reverse Bits | https://leetcode.com/problems/reverse-bits/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 11 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/reverse-bits3556/1 | -      |
+| Day 11 | Leetcode 191. Number of 1 Bits | https://leetcode.com/problems/number-of-1-bits/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 11 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/set-bits0143/1 | -      |
+| Day 11 | Leetcode 136. Single Number | https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 11 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/single-number1014/1 | -      |
+| Day 11 | Leetcode 137. Single Number II | https://leetcode.com/problems/single-number-ii/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 11 | Leetcode 201. Bitwise AND of Numbers Range | https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 11 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/ishaans-curiosity0853/0 | -      |
+| Day 12 | Leetcode 9. Palindrome Number | https://leetcode.com/problems/palindrome-number/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 12 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/palindrome0746/1 | -      |
+| Day 12 | Leetcode 66. Plus One | https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 12 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/plus-one/1 | -      |
+| Day 12 | Leetcode 172. Factorial Trailing Zeroes | https://leetcode.com/problems/factorial-trailing-zeroes/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 12 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1 | -      |
+| Day 13 | Leetcode 69. Sqrt(x) | https://leetcode.com/problems/sqrtx/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 13 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/square-root/1 | -      |
+| Day 13 | Leetcode 50. Pow(x, n) | https://leetcode.com/problems/powx-n/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 13 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/powx-n/0 | -      |
+| Day 13 | Leetcode 149. Max Points on a Line | https://leetcode.com/problems/max-points-on-a-line/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 13 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/points-in-straight-line/1 Geeksforgeeks - https://www.geeksforgeeks.org/problems/points-in-straight-line/1 | -      |
+| Day 14 | Leetcode 70. Climbing Stairs | https://leetcode.com/problems/climbing-stairs/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 14 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1 | -      |
+| Day 14 | Leetcode 198. House Robber | https://leetcode.com/problems/house-robber/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 14 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1 | -      |
+| Day 15 | Leetcode 139. Word Break | https://leetcode.com/problems/word-break/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 15 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/word-break1352/1 | -      |
+| Day 15 | Leetcode 322. Coin Change | https://leetcode.com/problems/coin-change/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 15 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/number-of-coins1824/1 | -      |
+| Day 15 | Leetcode 300. Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 15 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1 | -      |
+| Day 16 | Leetcode 120. Triangle | https://leetcode.com/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 16 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/triangle-path-sum/1 | -      |
+| Day 16 | Leetcode 64. Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
 |       |                                                    |                                                                                                                    |       |
 |       |                                                    |                                                                                                                    |       |
