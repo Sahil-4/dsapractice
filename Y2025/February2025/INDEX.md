@@ -82,5 +82,39 @@ Index - February 2025
 | Day 16 | Leetcode 120. Triangle | https://leetcode.com/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
 | Day 16 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/triangle-path-sum/1 | -      |
 | Day 16 | Leetcode 64. Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 17 | Leetcode 63. Unique Paths II | https://leetcode.com/problems/unique-paths-ii/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 17 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/grid-path-2/0 | -      |
+| Day 17 | Leetcode 5. Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 17 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1 | -      |
+| Day 18 | Leetcode 97. Interleaving String | https://leetcode.com/problems/interleaving-string/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 18 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/interleaved-strings/1 | -      |
+| Day 18 | Leetcode 72. Edit Distance | https://leetcode.com/problems/edit-distance/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 18 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/edit-distance3702/1 | -      |
+| Day 19 | Leetcode 123. Best Time to Buy and Sell Stock III | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 19 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1 | -      |
+| Day 19 | Leetcode 188. Best Time to Buy and Sell Stock IV | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 19 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/maximum-profit4657/1 | -      |
+| Day 19 | Leetcode 221. Maximal Square | https://leetcode.com/problems/maximal-square/description/?envType=study-plan-v2&envId=top-interview-150 | -      |
+| Day 19 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1 | -      |
+| Day 20 | Leetcode 225. Implement Stack using Queues | https://leetcode.com/problems/implement-stack-using-queues/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 20 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/stack-using-two-queues/1 | -      |
+| Day 20 | Leetcode 232. Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 20 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/queue-using-stack/1 | -      |
+| Day 20 | Leetcode 705. Design HashSet | https://leetcode.com/problems/design-hashset/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 21 | Leetcode 706. Design HashMap | https://leetcode.com/problems/design-hashmap/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 21 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/design-hashmap/1 | -      |
+| Day 21 | Leetcode 2166. Design Bitset | https://leetcode.com/problems/design-bitset/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 21 | Leetcode 1656. Design an Ordered Stream | https://leetcode.com/problems/design-an-ordered-stream/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 22 | Leetcode 707. Design Linked List | https://leetcode.com/problems/design-linked-list/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 22 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1 | -      |
+| Day 22 | Leetcode 641. Design Circular Deque | https://leetcode.com/problems/design-circular-deque/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 22 | Leetcode 208. Implement Trie (Prefix Tree) | https://leetcode.com/problems/implement-trie-prefix-tree/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 22 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1 | -      |
+| Day 22 | Leetcode 676. Implement Magic Dictionary | https://leetcode.com/problems/implement-magic-dictionary/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 23 | Leetcode 146. LRU Cache | https://leetcode.com/problems/lru-cache/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 23 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/lru-cache/1 | -      |
+| Day 23 | Leetcode 460. LFU Cache | https://leetcode.com/problems/lfu-cache/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 23 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/lfu-cache-1665050355/0 | -      |
+| Day 23 | Leetcode 470. Implement Rand10() Using Rand7() | https://leetcode.com/problems/implement-rand10-using-rand7/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
 |       |                                                    |                                                                                                                    |       |
 |       |                                                    |                                                                                                                    |       |
