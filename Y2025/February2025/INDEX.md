@@ -116,5 +116,16 @@ Index - February 2025
 | Day 23 | Leetcode 460. LFU Cache | https://leetcode.com/problems/lfu-cache/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
 | Day 23 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/lfu-cache-1665050355/0 | -      |
 | Day 23 | Leetcode 470. Implement Rand10() Using Rand7() | https://leetcode.com/problems/implement-rand10-using-rand7/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
-|       |                                                    |                                                                                                                    |       |
-|       |                                                    |                                                                                                                    |       |
+| Day 24 | Leetcode 355. Design Twitter | https://leetcode.com/problems/design-twitter/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 24 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/design-twitter/1 | -      |
+| Day 24 | Leetcode 1381. Design a Stack With Increment Operation | https://leetcode.com/problems/design-a-stack-with-increment-operation/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 25 | Leetcode 1396. Design Underground System | https://leetcode.com/problems/design-underground-system/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 25 | Leetcode 1472. Design Browser History | https://leetcode.com/problems/design-browser-history/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 25 | Geeksforgeeks | https://www.geeksforgeeks.org/problems/design-browser-history/0 | -      |
+| Day 26 | Leetcode 2241. Design an ATM Machine | https://leetcode.com/problems/design-an-atm-machine/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 26 | Leetcode 1603. Design Parking System | https://leetcode.com/problems/design-parking-system/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 27 | Leetcode 1912. Design Movie Rental System | https://leetcode.com/problems/design-movie-rental-system/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 27 | Leetcode 2353. Design a Food Rating System | https://leetcode.com/problems/design-a-food-rating-system/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 28 | Leetcode 2502. Design Memory Allocator | https://leetcode.com/problems/design-memory-allocator/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 28 | Leetcode 3242. Design Neighbor Sum Service | https://leetcode.com/problems/design-neighbor-sum-service/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
+| Day 28 | Leetcode 1206. Design Skiplist | https://leetcode.com/problems/design-skiplist/description/?envType=problem-list-v2&envId=2vp6ojv1 | -      |
