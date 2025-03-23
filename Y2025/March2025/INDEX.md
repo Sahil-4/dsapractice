@@ -34,4 +34,18 @@ Index - March 2025
 | Day 15 | POTD Geeksforgeeks Coin Change (Minimum Coins) | https://www.geeksforgeeks.org/problems/number-of-coins1824/1 | -      |
 | Day 16 | POTD Leetcode 2594. Minimum Time to Repair Cars | https://leetcode.com/problems/minimum-time-to-repair-cars/?envType=daily-question&envId=2025-03-16 | -      |
 | Day 16 | POTD Geeksforgeeks Minimum Jumps | https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1 | -      |
+| Day 17 | POTD Leetcode 2206. Divide Array Into Equal Pairs | https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17 | -      |
+| Day 17 | POTD Geeksforgeeks Subset Sum Problem | https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1 | -      |
+| Day 18 | POTD Leetcode 2401. Longest Nice Subarray | https://leetcode.com/problems/longest-nice-subarray/description/?envType=daily-question&envId=2025-03-18 | -      |
+| Day 18 | POTD Geeksforgeeks Partition Equal Subset Sum | https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1 | -      |
+| Day 19 | POTD Leetcode 3191. Minimum Operations to Make Binary Array Elements Equal to One I | https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19 | -      |
+| Day 19 | POTD Geeksforgeeks Stock Buy and Sell – Max K Transactions Allowed | https://www.geeksforgeeks.org/problems/maximum-profit4657/1 | -      |
+| Day 20 | POTD Leetcode 3108. Minimum Cost Walk in Weighted Graph | https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/?envType=daily-question&envId=2025-03-20 | -      |
+| Day 20 | POTD Geeksforgeeks Stock Buy and Sell – Max 2 Transactions Allowed | https://www.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1 | -      |
+| Day 21 | POTD Leetcode 2115. Find All Possible Recipes from Given Supplies | https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/?envType=daily-question&envId=2025-03-21 | -      |
+| Day 21 | POTD Geeksforgeeks Stickler Thief | https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1 | -      |
+| Day 22 | POTD Leetcode 2685. Count the Number of Complete Components | https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=daily-question&envId=2025-03-22 | -      |
+| Day 22 | POTD Geeksforgeeks Stickler Thief II | https://www.geeksforgeeks.org/problems/house-robber-ii/1 | -      |
+| Day 23 | POTD Leetcode 1976. Number of Ways to Arrive at Destination | https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/?envType=daily-question&envId=2025-03-23 | -      |
+| Day 23 | POTD Geeksforgeeks Total Decoding Messages | https://www.geeksforgeeks.org/problems/total-decoding-messages1235/1 | -      |
 |       |                                                  |                                                                                                                 |       |
