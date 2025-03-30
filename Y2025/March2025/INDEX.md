@@ -48,4 +48,18 @@ Index - March 2025
 | Day 22 | POTD Geeksforgeeks Stickler Thief II | https://www.geeksforgeeks.org/problems/house-robber-ii/1 | -      |
 | Day 23 | POTD Leetcode 1976. Number of Ways to Arrive at Destination | https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/?envType=daily-question&envId=2025-03-23 | -      |
 | Day 23 | POTD Geeksforgeeks Total Decoding Messages | https://www.geeksforgeeks.org/problems/total-decoding-messages1235/1 | -      |
+| Day 24 | POTD Leetcode 3169. Count Days Without Meetings | https://leetcode.com/problems/count-days-without-meetings/description/?envType=daily-question&envId=2025-03-24 | -      |
+| Day 24 | POTD Geeksforgeeks Matrix Chain Multiplication | https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1 | -      |
+| Day 25 | POTD Leetcode 3394. Check if Grid can be Cut into Sections | https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/?envType=daily-question&envId=2025-03-25  | -      |
+| Day 25 | POTD Geeksforgeeks Boolean Parenthesization | https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1 | -      |
+| Day 26 | POTD Leetcode 2033. Minimum Operations to Make a Uni-Value Grid | https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/?envType=daily-question&envId=2025-03-26 | -      |
+| Day 26 | POTD Geeksforgeeks Word Break | https://www.geeksforgeeks.org/problems/word-break1352/1 | -      |
+| Day 27 | POTD Leetcode 2780. Minimum Index of a Valid Split | https://leetcode.com/problems/minimum-index-of-a-valid-split/description/?envType=daily-question&envId=2025-03-27 | -      |
+| Day 27 | POTD Geeksforgeeks Minimum Platforms | https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1 | -      |
+| Day 28 | POTD Leetcode 2503. Maximum Number of Points From Grid Queries | https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/?envType=daily-question&envId=2025-03-28 | -      |
+| Day 28 | POTD Geeksforgeeks Activity Selection | https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1 | -      |
+| Day 29 | POTD Leetcode 2818. Apply Operations to Maximize Score | https://leetcode.com/problems/apply-operations-to-maximize-score/description/?envType=daily-question&envId=2025-03-29 | -      |
+| Day 29 | POTD Geeksforgeeks Job Sequencing Problem | https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1  | -      |
+| Day 30 | POTD Leetcode 763. Partition Labels | https://leetcode.com/problems/partition-labels/description/?envType=daily-question&envId=2025-03-30 | -      |
+| Day 30 | POTD Geeksforgeeks Gas Station | https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1 | -      |
 |       |                                                  |                                                                                                                 |       |
