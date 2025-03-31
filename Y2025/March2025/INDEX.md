@@ -62,4 +62,5 @@ Index - March 2025
 | Day 29 | POTD Geeksforgeeks Job Sequencing Problem | https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1  | -      |
 | Day 30 | POTD Leetcode 763. Partition Labels | https://leetcode.com/problems/partition-labels/description/?envType=daily-question&envId=2025-03-30 | -      |
 | Day 30 | POTD Geeksforgeeks Gas Station | https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1 | -      |
-|       |                                                  |                                                                                                                 |       |
+| Day 31 | POTD Leetcode 2551. Put Marbles in Bags | https://leetcode.com/problems/put-marbles-in-bags/description/?envType=daily-question&envId=2025-03-31 | -      |
+| Day 31 | POTD Geeksforgeeks Maximize partitions in a String | https://www.geeksforgeeks.org/problems/maximize-partitions-in-a-string/1 | -      |
