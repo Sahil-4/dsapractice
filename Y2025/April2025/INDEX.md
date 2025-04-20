@@ -28,4 +28,18 @@ Index - April 2025
 | Day 12 | POTD Geeksforgeeks Flood fill Algorithm | https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1 | -     |
 | Day 13 | POTD Leetcode 1922. Count Good Numbers | https://leetcode.com/problems/count-good-numbers/description/?envType=daily-question&envId=2025-04-13 | -     |
 | Day 13 | POTD Geeksforgeeks Clone an Undirected Graph | https://www.geeksforgeeks.org/problems/clone-graph/1 | -     |
+| Day 14 | POTD Leetcode 1534. Count Good Triplets | https://leetcode.com/problems/count-good-triplets/description/?envType=daily-question&envId=2025-04-14 | -     |
+| Day 14 | POTD Geeksforgeeks Alien Dictionary | https://www.geeksforgeeks.org/problems/alien-dictionary/1 | -     |
+| Day 15 | POTD Leetcode 2179. Count Good Triplets in an Array | https://leetcode.com/problems/count-good-triplets-in-an-array/description/?envType=daily-question&envId=2025-04-15 | -     |
+| Day 15 | POTD Geeksforgeeks Bellman-Ford | http://geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1 | -     |
+| Day 16 | POTD Leetcode 2537. Count the Number of Good Subarrays | https://leetcode.com/problems/count-the-number-of-good-subarrays/description/?envType=daily-question&envId=2025-04-16 | -     |
+| Day 16 | POTD Geeksforgeeks Floyd Warshall | https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1 | -     |
+| Day 17 | POTD Leetcode 2176. Count Equal and Divisible Pairs in an Array | https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/?envType=daily-question&envId=2025-04-17 | -     |
+| Day 17 | POTD Geeksforgeeks Minimum Weight Cycle | https://www.geeksforgeeks.org/problems/minimum-weight-cycle/1 | -     |
+| Day 18 | POTD Leetcode 38. Count and Say | https://leetcode.com/problems/count-and-say/description/?envType=daily-question&envId=2025-04-18 | -     |
+| Day 18 | POTD Geeksforgeeks Implement Trie | https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1 | -     |
+| Day 19 | POTD Leetcode 2563. Count the Number of Fair Pairs | https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envType=daily-question&envId=2025-04-19 | -     |
+| Day 19 | POTD Geeksforgeeks Maximum XOR of two numbers in an array | https://www.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/1 | -     |
+| Day 20 | POTD Leetcode 781. Rabbits in Forest | https://leetcode.com/problems/rabbits-in-forest/description/?envType=daily-question&envId=2025-04-20 | -     |
+| Day 20 | POTD Geeksforgeeks Find Only Repetitive Element from 1 to n-1 | https://www.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1 | -     |
 |       |                                                       |                                                                                                                      | -     |
