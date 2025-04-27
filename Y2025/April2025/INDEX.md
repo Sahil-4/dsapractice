@@ -42,4 +42,18 @@ Index - April 2025
 | Day 19 | POTD Geeksforgeeks Maximum XOR of two numbers in an array | https://www.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/1 | -     |
 | Day 20 | POTD Leetcode 781. Rabbits in Forest | https://leetcode.com/problems/rabbits-in-forest/description/?envType=daily-question&envId=2025-04-20 | -     |
 | Day 20 | POTD Geeksforgeeks Find Only Repetitive Element from 1 to n-1 | https://www.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1 | -     |
+| Day 21 | POTD Leetcode 2145. Count the Hidden Sequences | https://leetcode.com/problems/count-the-hidden-sequences/description/?envType=daily-question&envId=2025-04-21 | -     |
+| Day 21 | POTD Geeksforgeeks Missing in Array | https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1 | -     |
+| Day 22 | POTD Leetcode 2338. Count the Number of Ideal Arrays | https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/?envType=daily-question&envId=2025-04-22 | -     |
+| Day 22 | POTD Geeksforgeeks Unique Number I | https://www.geeksforgeeks.org/problems/find-unique-number/1 | -     |
+| Day 23 | POTD Leetcode 1399. Count Largest Group | https://leetcode.com/problems/count-largest-group/description/?envType=daily-question&envId=2025-04-23 | -     |
+| Day 23 | POTD Geeksforgeeks Unique Number II | https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1 | -     |
+| Day 24 | POTD Leetcode 2799. Count Complete Subarrays in an Array | https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/?envType=daily-question&envId=2025-04-24  | -     |
+| Day 24 | POTD Geeksforgeeks Unique Number III | https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1  | -     |
+| Day 25 | POTD Leetcode 2845. Count of Interesting Subarrays | https://leetcode.com/problems/count-of-interesting-subarrays/description/?envType=daily-question&envId=2025-04-25  | -     |
+| Day 25 | POTD Geeksforgeeks Majority Element | https://www.geeksforgeeks.org/problems/majority-element-1587115620/1  | -     |
+| Day 26 | POTD Leetcode 2444. Count Subarrays With Fixed Bounds | https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=daily-question&envId=2025-04-26  | -     |
+| Day 26 | POTD Geeksforgeeks Is Binary Tree Heap | https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1  | -     |
+| Day 27 | POTD Leetcode 3392. Count Subarrays of Length Three With a Condition | https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/?envType=daily-question&envId=2025-04-27  | -     |
+| Day 27 | POTD Geeksforgeeks Multiply two strings | https://www.geeksforgeeks.org/problems/multiply-two-strings/1  | -     |
 |       |                                                       |                                                                                                                      | -     |
