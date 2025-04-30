@@ -56,4 +56,9 @@ Index - April 2025
 | Day 26 | POTD Geeksforgeeks Is Binary Tree Heap | https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1  | -     |
 | Day 27 | POTD Leetcode 3392. Count Subarrays of Length Three With a Condition | https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/?envType=daily-question&envId=2025-04-27  | -     |
 | Day 27 | POTD Geeksforgeeks Multiply two strings | https://www.geeksforgeeks.org/problems/multiply-two-strings/1  | -     |
-|       |                                                       |                                                                                                                      | -     |
+| Day 28 | POTD Leetcode 2302. Count Subarrays With Score Less Than K | https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/?envType=daily-question&envId=2025-04-28 | -     |
+| Day 28 | POTD Geeksforgeeks Maximum sum of Non-adjacent nodes | https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1 | -     |
+| Day 29 | POTD Leetcode 2962. Count Subarrays Where Max Element Appears at Least K Times | https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/?envType=daily-question&envId=2025-04-29 | -     |
+| Day 29 | POTD Geeksforgeeks Sort a linked list of 0s, 1s and 2s | https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1 | -     |
+| Day 30 | POTD Leetcode 1295. Find Numbers with Even Number of Digits | https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?envType=daily-question&envId=2025-04-30 | -     |
+| Day 30 | POTD Geeksforgeeks Find length of Loop | https://www.geeksforgeeks.org/problems/find-length-of-loop/1 | -     |
