@@ -24,4 +24,18 @@ Index - May 2025
 | Day 10 | POTD Geeksforgeeks Longest Subarray with Majority Greater than K | https://www.geeksforgeeks.org/problems/longest-subarray-with-majority-greater-than-k/1 | -     |
 | Day 11 | POTD Leetcode 1550. Three Consecutive Odds | https://leetcode.com/problems/three-consecutive-odds/?envType=daily-question&envId=2025-05-11 | -     |
 | Day 11 | POTD Geeksforgeeks K-th Largest Sum Contiguous Subarray | https://www.geeksforgeeks.org/problems/k-th-largest-sum-contiguous-subarray/1 | -     |
+| Day 12 | POTD Leetcode 2094. Finding 3-Digit Even Numbers | https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-12 | -     |
+| Day 12 | POTD Geeksforgeeks Meeting Rooms III | https://www.geeksforgeeks.org/problems/meeting-rooms-iii/1 | -     |
+| Day 13 | POTD Leetcode 3335. Total Characters in String After Transformations I | https://leetcode.com/problems/total-characters-in-string-after-transformations-i/description/?envType=daily-question&envId=2025-05-13 | -     |
+| Day 13 | POTD Geeksforgeeks nCr | https://www.geeksforgeeks.org/problems/ncr1019/1 | -     |
+| Day 14 | POTD Leetcode 3337. Total Characters in String After Transformations II | https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/?envType=daily-question&envId=2025-05-14 | -     |
+| Day 14 | POTD Geeksforgeeks Look and Say Pattern | https://www.geeksforgeeks.org/problems/decode-the-pattern1138/1 | -     |
+| Day 15 | POTD Leetcode 2900. Longest Unequal Adjacent Groups Subsequence I | https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description/?envType=daily-question&envId=2025-05-15 | -     |
+| Day 15 | POTD Geeksforgeeks Substrings with same first and last characters | https://www.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters3644/1 | -     |
+| Day 16 | Leetcode 2901. Longest Unequal Adjacent Groups Subsequence II | https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/?envType=daily-question&envId=2025-05-16 | -     |
+| Day 16 | POTD Geeksforgeeks Smallest range in K lists | https://www.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1 | -     |
+| Day 17 | POTD Leetcode 75. Sort Colors | https://leetcode.com/problems/sort-colors/description/?envType=daily-question&envId=2025-05-17 | -     |
+| Day 17 | POTD Geeksforgeeks Sort the given array after applying the given equation | https://www.geeksforgeeks.org/problems/sort-the-given-array-after-applying-the-given-equation0304/1 | -     |
+| Day 18 | POTD Leetcode 1931. Painting a Grid With Three Different Colors | https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18 | -     |
+| Day 18 | POTD Geeksforgeeks Level Order in spiral form | https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1 | -     |
 |       |                                                            |                                                                                                                           | -     |
