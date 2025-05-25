@@ -38,4 +38,18 @@ Index - May 2025
 | Day 17 | POTD Geeksforgeeks Sort the given array after applying the given equation | https://www.geeksforgeeks.org/problems/sort-the-given-array-after-applying-the-given-equation0304/1 | -     |
 | Day 18 | POTD Leetcode 1931. Painting a Grid With Three Different Colors | https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18 | -     |
 | Day 18 | POTD Geeksforgeeks Level Order in spiral form | https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1 | -     |
+| Day 19 | POTD Leetcode 3024. Type of Triangle | https://leetcode.com/problems/type-of-triangle/?envType=daily-question&envId=2025-05-19 | -     |
+| Day 19 | POTD Geeksforgeeks Predecessor and Successor | https://www.geeksforgeeks.org/problems/predecessor-and-successor/1 | -     |
+| Day 20 | POTD Leetcode 3355. Zero Array Transformation I | https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20 | -     |
+| Day 20 | POTD Geeksforgeeks Burning Tree | https://www.geeksforgeeks.org/problems/burning-tree/1 | -     |
+| Day 21 | POTD Leetcode 73. Set Matrix Zeroes | https://leetcode.com/problems/set-matrix-zeroes/description/?envType=daily-question&envId=2025-05-21 | -     |
+| Day 21 | POTD Geeksforgeeks Kth Smallest Number in Multiplication Table | https://www.geeksforgeeks.org/problems/kth-smallest-number-in-multiplication-table/1 | -     |
+| Day 22 | POTD Leetcode 3362. Zero Array Transformation III | https://leetcode.com/problems/zero-array-transformation-iii/description/?envType=daily-question&envId=2025-05-22 | -     |
+| Day 22 | POTD Geeksforgeeks Minimum Deletions | https://www.geeksforgeeks.org/problems/minimum-deletitions1648/1 | -     |
+| Day 23 | POTD Leetcode 3068. Find the Maximum Sum of Node Values | https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2025-05-23 | -     |
+| Day 23 | POTD Geeksforgeeks Dice throw | https://www.geeksforgeeks.org/problems/dice-throw5349/1 | -     |
+| Day 24 | POTD Leetcode 2942. Find Words Containing Character | https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24 | -     |
+| Day 24 | POTD Geeksforgeeks Sum of all substrings of a number | https://www.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1 | -     |
+| Day 25 | POTD Leetcode 2131. Longest Palindrome by Concatenating Two Letter Words | https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/?envType=daily-question&envId=2025-05-25 | -     |
+| Day 25 | POTD Geeksforgeeks Pythagorean Triplet | https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1 | -     |
 |       |                                                            |                                                                                                                           | -     |
