@@ -52,4 +52,15 @@ Index - May 2025
 | Day 24 | POTD Geeksforgeeks Sum of all substrings of a number | https://www.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1 | -     |
 | Day 25 | POTD Leetcode 2131. Longest Palindrome by Concatenating Two Letter Words | https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/?envType=daily-question&envId=2025-05-25 | -     |
 | Day 25 | POTD Geeksforgeeks Pythagorean Triplet | https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1 | -     |
-|       |                                                            |                                                                                                                           | -     |
+| Day 26 | POTD Leetcode 1857. Largest Color Value in a Directed Graph | https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/?envType=daily-question&envId=2025-05-26 | -     |
+| Day 26 | POTD Geeksforgeeks Insert in Sorted Circular Linked List | https://www.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1 | -     |
+| Day 27 | POTD Leetcode 2894. Divisible and Non-divisible Sums Difference | https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27 | -     |
+| Day 27 | POTD Geeksforgeeks Print leaf nodes from preorder traversal of BST | https://www.geeksforgeeks.org/problems/print-leaf-nodes-from-preorder-traversal-of-bst2657/1 | -     |
+| Day 28 | POTD Leetcode 3372. Maximize the Number of Target Nodes After Connecting Trees I | https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/description/?envType=daily-question&envId=2025-05-28 | -     |
+| Day 28 | POTD Geeksforgeeks Find rectangle with corners as 1 | https://www.geeksforgeeks.org/problems/find-rectangle-with-corners-as-1--141631/1 | -     |
+| Day 29 | POTD Leetcode 3373. Maximize the Number of Target Nodes After Connecting Trees II | https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/description/?envType=daily-question&envId=2025-05-29 | -     |
+| Day 29 | POTD Geeksforgeeks Sum of nodes on the longest path | https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1 | -     |
+| Day 30 | POTD Leetcode 2359. Find Closest Node to Given Two Nodes | https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/?envType=daily-question&envId=2025-05-30 | -     |
+| Day 30 | POTD Geeksforgeeks Closest Neighbour in BST | https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1 | -     |
+| Day 31 | POTD Leetcode 909. Snakes and Ladders | https://leetcode.com/problems/snakes-and-ladders/description/?envType=daily-question&envId=2025-05-31 | -     |
+| Day 31 | POTD Geeksforgeeks Kth element in Matrix | https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1 | -     |
