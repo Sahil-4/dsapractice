@@ -18,4 +18,18 @@ Index - June 2025
 | Day 7 | POTD Geeksforgeeks Longest Span in two Binary Arrays | https://www.geeksforgeeks.org/problems/longest-span-with-same-sum-in-two-binary-arrays5142/1 | -     |
 | Day 8 | POTD Leetcode 386. Lexicographical Numbers | https://leetcode.com/problems/lexicographical-numbers/?envType=daily-question&envId=2025-06-08 | -     |
 | Day 8 | POTD Geeksforgeeks Sum-string | https://www.geeksforgeeks.org/problems/sum-string3151/1 | -     |
+| Day 9 | POTD Leetcode 440. K-th Smallest in Lexicographical Order | https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2025-06-09 | -     |
+| Day 9 | POTD Geeksforgeeks BST with Dead End | https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1 | -     |
+| Day 10 | POTD Leetcode 3442. Maximum Difference Between Even and Odd Frequency I | https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/?envType=daily-question&envId=2025-06-10 | -     |
+| Day 10 | POTD Geeksforgeeks Exactly one swap | https://www.geeksforgeeks.org/problems/exactly-one-swap--170637/1 | -     |
+| Day 11 | POTD Leetcode 3445. Maximum Difference Between Even and Odd Frequency II | https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/?envType=daily-question&envId=2025-06-11 | -     |
+| Day 11 | POTD Geeksforgeeks Remove the balls | https://www.geeksforgeeks.org/problems/remove-the-balls--170647/1 | -     |
+| Day 12 | POTD Leetcode 3423. Maximum Difference Between Adjacent Elements in a Circular Array  | https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/?envType=daily-question&envId=2025-06-12 | -     |
+| Day 12 | POTD Geeksforgeeks K closest elements | https://www.geeksforgeeks.org/problems/k-closest-elements3619/1 | -     |
+| Day 13 | POTD Leetcode 2616. Minimize the Maximum Difference of Pairs | https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/?envType=daily-question&envId=2025-06-13 | -     |
+| Day 13 | POTD Geeksforgeeks Koko Eating Bananas | https://www.geeksforgeeks.org/problems/koko-eating-bananas/1 | -     |
+| Day 14 | POTD Leetcode 2566. Maximum Difference by Remapping a Digit | https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/?envType=daily-question&envId=2025-06-14 | -     |
+| Day 14 | POTD Geeksforgeeks Symmetric Tree | https://www.geeksforgeeks.org/problems/symmetric-tree/1 | -     |
+| Day 15 | POTD Leetcode 1432. Max Difference You Can Get From Changing an Integer | https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/?envType=daily-question&envId=2025-06-15 | -     |
+| Day 15 | POTD Geeksforgeeks Smallest Divisor | https://www.geeksforgeeks.org/problems/smallest-divisor/1 | -     |
 |       |                                                          |                                                                                                                         | -     |
