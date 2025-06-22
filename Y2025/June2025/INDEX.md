@@ -32,4 +32,18 @@ Index - June 2025
 | Day 14 | POTD Geeksforgeeks Symmetric Tree | https://www.geeksforgeeks.org/problems/symmetric-tree/1 | -     |
 | Day 15 | POTD Leetcode 1432. Max Difference You Can Get From Changing an Integer | https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/?envType=daily-question&envId=2025-06-15 | -     |
 | Day 15 | POTD Geeksforgeeks Smallest Divisor | https://www.geeksforgeeks.org/problems/smallest-divisor/1 | -     |
+| Day 16 | POTD Leetcode 2016. Maximum Difference Between Increasing Elements | https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/?envType=daily-question&envId=2025-06-16 | -     |
+| Day 16 | POTD Geeksforgeeks Equalize the Towers | https://www.geeksforgeeks.org/problems/equalize-the-towers2804/1 | -     |
+| Day 17 | POTD Leetcode 3405. Count the Number of Arrays with K Matching Adjacent Elements | https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/?envType=daily-question&envId=2025-06-17 | -     |
+| Day 17 | POTD Geeksforgeeks Coin Piles | https://www.geeksforgeeks.org/problems/coin-piles5152/1 | -     |
+| Day 18 | POTD Leetcode 2966. Divide Array Into Arrays With Max Difference | https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2025-06-18 | -     |
+| Day 18 | POTD Geeksforgeeks Find all possible palindromic partitions of a String | https://www.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1 | -     |
+| Day 19 | POTD Leetcode 2294. Partition Array Such That Maximum Difference Is K | https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/?envType=daily-question&envId=2025-06-19 | -     |
+| Day 19 | POTD Geeksforgeeks Case-specific Sorting of Strings | https://www.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1 | -     |
+| Day 20 | POTD Leetcode 3443. Maximum Manhattan Distance After K Changes | https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/description/?envType=daily-question&envId=2025-06-20 | -     |
+| Day 20 | POTD Geeksforgeeks Group Balls by Sequence | https://www.geeksforgeeks.org/problems/group-balls-by-sequence/1 | -     |
+| Day 21 | POTD Leetcode 3085. Minimum Deletions to Make String K-Special | https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/?envType=daily-question&envId=2025-06-21 | -     |
+| Day 21 | POTD Geeksforgeeks Police and Thieves | https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1 | -     |
+| Day 22 | POTD Leetcode 2138. Divide a String Into Groups of Size k | https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/description/?envType=daily-question&envId=2025-06-22 | -     |
+| Day 22 | POTD Geeksforgeeks Largest Divisible Subset | https://www.geeksforgeeks.org/problems/largest-divisible-subset--170643/1 | -     |
 |       |                                                          |                                                                                                                         | -     |
