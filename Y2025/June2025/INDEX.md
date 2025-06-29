@@ -46,4 +46,18 @@ Index - June 2025
 | Day 21 | POTD Geeksforgeeks Police and Thieves | https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1 | -     |
 | Day 22 | POTD Leetcode 2138. Divide a String Into Groups of Size k | https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/description/?envType=daily-question&envId=2025-06-22 | -     |
 | Day 22 | POTD Geeksforgeeks Largest Divisible Subset | https://www.geeksforgeeks.org/problems/largest-divisible-subset--170643/1 | -     |
+| Day 23 | POTD Leetcode 2081. Sum of k-Mirror Numbers | https://leetcode.com/problems/sum-of-k-mirror-numbers/description/?envType=daily-question&envId=2025-06-23 | -     |
+| Day 23 | POTD Geeksforgeeks Minimum sum | https://www.geeksforgeeks.org/problems/minimum-sum4058/1 | -     |
+| Day 24 | POTD Leetcode 2200. Find All K-Distant Indices in an Array | https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/?envType=daily-question&envId=2025-06-24 | -     |
+| Day 24 | POTD Geeksforgeeks Lexicographically Largest String After K Deletions | https://www.geeksforgeeks.org/problems/lexicographically-largest-string-after-deleting-k-characters/1 | -     |
+| Day 25 | POTD Leetcode 2040. Kth Smallest Product of Two Sorted Arrays | https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/?envType=daily-question&envId=2025-06-25 | -     |
+| Day 25 | POTD Geeksforgeeks Check if frequencies can be equal | https://www.geeksforgeeks.org/problems/check-frequencies4211/1 | -     |
+| Day 26 | POTD Leetcode 2311. Longest Binary Subsequence Less Than or Equal to K | https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/?envType=daily-question&envId=2025-06-26 | -     |
+| Day 26 | POTD Geeksforgeeks Game with String | https://www.geeksforgeeks.org/problems/game-with-string4100/1 | -     |
+| Day 27 | POTD Leetcode 2014. Longest Subsequence Repeated k Times | https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/?envType=daily-question&envId=2025-06-27 | -     |
+| Day 27 | POTD Geeksforgeeks Mobile numeric keypad | https://www.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1 | -     |
+| Day 28 | POTD Leetcode 2099. Find Subsequence of Length K With the Largest Sum | https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/?envType=daily-question&envId=2025-06-28 | -     |
+| Day 28 | POTD Geeksforgeeks Counting elements in two arrays | https://www.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1 | -     |
+| Day 29 | POTD Leetcode 1498. Number of Subsequences That Satisfy the Given Sum Condition | https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/?envType=daily-question&envId=2025-06-29 | -     |
+| Day 29 | POTD Geeksforgeeks Split Array Largest Sum | https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/1 | -     |
 |       |                                                          |                                                                                                                         | -     |
