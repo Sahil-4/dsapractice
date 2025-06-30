@@ -60,4 +60,5 @@ Index - June 2025
 | Day 28 | POTD Geeksforgeeks Counting elements in two arrays | https://www.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1 | -     |
 | Day 29 | POTD Leetcode 1498. Number of Subsequences That Satisfy the Given Sum Condition | https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/?envType=daily-question&envId=2025-06-29 | -     |
 | Day 29 | POTD Geeksforgeeks Split Array Largest Sum | https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/1 | -     |
-|       |                                                          |                                                                                                                         | -     |
+| Day 30 | POTD Leetcode 594. Longest Harmonious Subsequence | https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=daily-question&envId=2025-06-30 | -     |
+| Day 30 | POTD Geeksforgeeks Max min Height | https://www.geeksforgeeks.org/problems/max-min-height--170647/1 | -     |
