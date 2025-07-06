@@ -1,7 +1,17 @@
 Index - June 2025
 
-| Day   | Problem Name                                                         | Link to Problem                                                                                                     | Notes |
-| ----- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----- |
-| Day 1 | POTD Leetcode 3330. Find the Original Typed String I                 | https://leetcode.com/problems/find-the-original-typed-string-i/description/?envType=daily-question&envId=2025-07-01 | -     |
-| Day 1 | POTD Geeksforgeeks Substrings of length k with k-1 distinct elements | https://www.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1                          | -     |
-|       |                                                                      |                                                                                                                     |       |
+| Day   | Problem Name                                                              | Link to Problem                                                                                                                   | Notes |
+| ----- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Day 1 | POTD Leetcode 3330. Find the Original Typed String I                      | https://leetcode.com/problems/find-the-original-typed-string-i/description/?envType=daily-question&envId=2025-07-01               | -     |
+| Day 1 | POTD Geeksforgeeks Substrings of length k with k-1 distinct elements      | https://www.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1                                        | -     |
+| Day 2 | POTD Leetcode 3333. Find the Original Typed String II                     | https://leetcode.com/problems/find-the-original-typed-string-ii/description/?envType=daily-question&envId=2025-07-02              | -     |
+| Day 2 | POTD Geeksforgeeks Longest subarray with Atmost two distinct integers     | https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1                                                            | -     |
+| Day 3 | POTD Leetcode 3304. Find the K-th Character in String Game I              | https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=daily-question&envId=2025-07-03       | -     |
+| Day 3 | POTD Geeksforgeeks Longest Substring with K Uniques                       | https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1                                                | -     |
+| Day 4 | POTD Leetcode 3307. Find the K-th Character in String Game II             | https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/?envType=daily-question&envId=2025-07-04      | -     |
+| Day 4 | POTD Geeksforgeeks Subarrays With At Most K Distinct Integers             | https://www.geeksforgeeks.org/problems/subarrays-with-at-most-k-distinct-integers/1                                               | -     |
+| Day 5 | POTD Leetcode 1394. Find Lucky Integer in an Array                        | https://leetcode.com/problems/find-lucky-integer-in-an-array/description/?envType=daily-question&envId=2025-07-05                 | -     |
+| Day 5 | POTD Geeksforgeeks Max Score from Subarray Mins                           | https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/1                                                                | -     |
+| Day 6 | POTD Leetcode 1865. Finding Pairs With a Certain Sum                      | https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/?envType=daily-question&envId=2025-07-06               | -     |
+| Day 6 | POTD Geeksforgeeks Maximum Sum Combination                                | https://www.geeksforgeeks.org/problems/maximum-sum-combination/1                                                                  | -     |
+|       |                                                                           |                                                                                                                                   |       |
