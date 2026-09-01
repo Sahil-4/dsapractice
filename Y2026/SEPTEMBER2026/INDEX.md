@@ -1,0 +1,9 @@
+Index - September 2026
+
+| Day    | Problem Name                                                                                 | Link to Problem                                                                                                                                               | Notes |
+| ------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Day 1  | POTD Leetcode 3568. Minimum Moves to Clean the Classroom                                     | https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/?envType=daily-question&envId=2026-09-01                                       | -     |
+| Day 1  | POTD Geeksforgeeks Count Palindromic Strings with Constraints                                | https://www.geeksforgeeks.org/problems/number-of-palindromic-strings2706/1                                                                                    | -     |
+| Day 1  | NC150 Leetcode 1. Two Sum                                                                    | https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=plakya4j                                                                     | -     |
+| Day 1  | NC150 Leetcode 2. Add Two Numbers                                                            | https://leetcode.com/problems/add-two-numbers/?envType=problem-list-v2&envId=plakya4j                                                                         | -     |
+|        |                                                                                              |                                                                                                                                                               | -     |
