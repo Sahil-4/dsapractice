@@ -1,0 +1,9 @@
+Index - October 2026
+
+| Day    | Problem Name                                                                                 | Link to Problem                                                                                                                                               | Notes |
+| ------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Day 1  | POTD Leetcode 20. Valid Parentheses                                                          | https://leetcode.com/problems/valid-parentheses/description/?envType=daily-question&envId=2026-10-01                                                          | -     |
+| Day 1  | POTD Geeksforgeeks Minimum Time to Finish Project                                            | https://www.geeksforgeeks.org/problems/project-manager--141631/1                                                                                              | -     |
+| Day 1  | NC150 Leetcode 76. Minimum Window Substring                                                  | https://leetcode.com/problems/minimum-window-substring/description/?envType=problem-list-v2&envId=plakya4j                                                    | -     |
+| Day 1  | NC150 Leetcode 78. Subsets                                                                   | https://leetcode.com/problems/subsets/description/?envType=problem-list-v2&envId=plakya4j                                                                     | -     |
+|        |                                                                                              |                                                                                                                                                               | -     |
