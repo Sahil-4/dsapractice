@@ -1,0 +1,8 @@
+Index - November 2026
+
+| Day    | Problem Name                                                                                 | Link to Problem                                                                                                                                               | Notes |
+| ------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Day 1  | POTD Leetcode 453. Minimum Moves to Equal Array Elements                                     | https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/?envType=daily-question&envId=2026-11-01                                      | -     |
+| Day 1  | POTD Geeksforgeeks Maximum Subarray Sum with One Square Allowed                              | https://www.geeksforgeeks.org/problems/maximum-sum-subarray--143510/1                                                                                         | -     |
+| Day 1  | NC150 Leetcode 1584. Min Cost to Connect All Points                                          | https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=plakya4j                                              | -     |
+|        |                                                                                              |                                                                                                                                                               | -     |
